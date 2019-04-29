@@ -978,7 +978,7 @@ gdjs.Scene2Code.condition5IsTrue_2 = {val:false};
 gdjs.Scene2Code.condition6IsTrue_2 = {val:false};
 
 
-gdjs.Scene2Code.eventsList0xca4498 = function(runtimeScene) {
+gdjs.Scene2Code.eventsList0xd0d0f0 = function(runtimeScene) {
 
 {
 
@@ -1047,8 +1047,8 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xca4498
-gdjs.Scene2Code.eventsList0xca3810 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd0d0f0
+gdjs.Scene2Code.eventsList0xd0c468 = function(runtimeScene) {
 
 {
 
@@ -1117,7 +1117,7 @@ gdjs.Scene2Code.GDHealthObjects2.createFrom(runtimeScene.getObjects("Health"));
 }
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xca4498(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd0d0f0(runtimeScene);} //End of subevents
 }
 
 }
@@ -1372,8 +1372,8 @@ for(var i = 0, len = gdjs.Scene2Code.GDFrzTopBreakObjects1.length ;i < len;++i) 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xca3810
-gdjs.Scene2Code.eventsList0xca3770 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd0c468
+gdjs.Scene2Code.eventsList0xd0c3c8 = function(runtimeScene) {
 
 {
 
@@ -1384,14 +1384,14 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sceneJustBeg
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xca3810(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd0c468(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xca3770
-gdjs.Scene2Code.eventsList0xca5bf0 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd0c3c8
+gdjs.Scene2Code.eventsList0xd0e848 = function(runtimeScene) {
 
 {
 
@@ -1437,7 +1437,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects2.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects2.length = k;}if ( gdjs.Scene2Code.condition2IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition3IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13263220);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13692364);
 }
 }}
 }
@@ -1545,8 +1545,8 @@ gdjs.Scene2Code.GDPlayerObjects1.createFrom(runtimeScene.getObjects("Player"));
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xca5bf0
-gdjs.Scene2Code.eventsList0xca5b18 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd0e848
+gdjs.Scene2Code.eventsList0xd0e770 = function(runtimeScene) {
 
 {
 
@@ -1557,14 +1557,14 @@ gdjs.Scene2Code.condition0IsTrue_0.val = !(gdjs.evtTools.runtimeScene.timerPause
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xca5bf0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd0e848(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xca5b18
-gdjs.Scene2Code.eventsList0xca7da0 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd0e770
+gdjs.Scene2Code.eventsList0xd109f8 = function(runtimeScene) {
 
 {
 
@@ -1605,8 +1605,8 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xca7da0
-gdjs.Scene2Code.eventsList0xca8420 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd109f8
+gdjs.Scene2Code.eventsList0xd11078 = function(runtimeScene) {
 
 {
 
@@ -1641,8 +1641,8 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xca8420
-gdjs.Scene2Code.eventsList0xca73a8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd11078
+gdjs.Scene2Code.eventsList0xd10000 = function(runtimeScene) {
 
 {
 
@@ -1700,7 +1700,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects5.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects5.length = k;}if ( gdjs.Scene2Code.condition1IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition2IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13269692);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13698836);
 }
 }}
 }
@@ -1734,7 +1734,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects5.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects5.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xca7da0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd109f8(runtimeScene);} //End of subevents
 }
 
 }
@@ -1756,14 +1756,14 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects4.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects4.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xca8420(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd11078(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xca73a8
-gdjs.Scene2Code.eventsList0xca8ae0 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd10000
+gdjs.Scene2Code.eventsList0xd11738 = function(runtimeScene) {
 
 {
 
@@ -1851,8 +1851,8 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xca8ae0
-gdjs.Scene2Code.eventsList0xca9888 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd11738
+gdjs.Scene2Code.eventsList0xd124e0 = function(runtimeScene) {
 
 {
 
@@ -1955,8 +1955,8 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xca9888
-gdjs.Scene2Code.eventsList0xca7138 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd124e0
+gdjs.Scene2Code.eventsList0xd0fd90 = function(runtimeScene) {
 
 {
 
@@ -1981,7 +1981,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects4.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects4.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xca73a8(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd10000(runtimeScene);} //End of subevents
 }
 
 }
@@ -2010,7 +2010,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects4.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects4.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xca8ae0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd11738(runtimeScene);} //End of subevents
 }
 
 }
@@ -2074,14 +2074,14 @@ gdjs.Scene2Code.GDPlayerObjects3.createFrom(gdjs.Scene2Code.GDPlayerObjects3_1fi
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xca9888(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd124e0(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xca7138
-gdjs.Scene2Code.eventsList0xcab0a8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd0fd90
+gdjs.Scene2Code.eventsList0xd13d00 = function(runtimeScene) {
 
 {
 
@@ -2124,8 +2124,8 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcab0a8
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDFrzTopObjects3Objects = Hashtable.newFrom({"FrzTop": gdjs.Scene2Code.GDFrzTopObjects3});gdjs.Scene2Code.eventsList0xcabde0 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd13d00
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDFrzTopObjects3Objects = Hashtable.newFrom({"FrzTop": gdjs.Scene2Code.GDFrzTopObjects3});gdjs.Scene2Code.eventsList0xd14a38 = function(runtimeScene) {
 
 {
 
@@ -2186,8 +2186,8 @@ gdjs.Scene2Code.GDPlayerObjects3.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcabde0
-gdjs.Scene2Code.eventsList0xcaaa50 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd14a38
+gdjs.Scene2Code.eventsList0xd136a8 = function(runtimeScene) {
 
 {
 
@@ -2206,7 +2206,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects4.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects4.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcab0a8(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd13d00(runtimeScene);} //End of subevents
 }
 
 }
@@ -2295,14 +2295,14 @@ gdjs.Scene2Code.GDPlayerObjects3.length = k;}}
 if (gdjs.Scene2Code.condition2IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcabde0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd14a38(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcaaa50
-gdjs.Scene2Code.eventsList0xcacd68 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd136a8
+gdjs.Scene2Code.eventsList0xd159c0 = function(runtimeScene) {
 
 {
 
@@ -2362,8 +2362,8 @@ gdjs.Scene2Code.GDPlayerObjects3.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcacd68
-gdjs.Scene2Code.eventsList0xcad968 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd159c0
+gdjs.Scene2Code.eventsList0xd165c0 = function(runtimeScene) {
 
 {
 
@@ -2375,7 +2375,7 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.Scene2Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition1IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13295316);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13724460);
 }
 }}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
@@ -2391,8 +2391,8 @@ if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcad968
-gdjs.Scene2Code.eventsList0xcad840 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd165c0
+gdjs.Scene2Code.eventsList0xd16498 = function(runtimeScene) {
 
 {
 
@@ -2473,7 +2473,7 @@ gdjs.Scene2Code.GDPlayerObjects4.createFrom(gdjs.Scene2Code.GDPlayerObjects4_1fi
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcad968(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd165c0(runtimeScene);} //End of subevents
 }
 
 }
@@ -2516,8 +2516,8 @@ if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcad840
-gdjs.Scene2Code.eventsList0xcaeb30 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd16498
+gdjs.Scene2Code.eventsList0xd17788 = function(runtimeScene) {
 
 {
 
@@ -2540,7 +2540,7 @@ gdjs.Scene2Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.Scene2Code.condition1IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition2IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13299916);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13729060);
 }
 }}
 }
@@ -2589,7 +2589,7 @@ gdjs.Scene2Code.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.Scene2Code.condition2IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition3IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13301844);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13730988);
 }
 }}
 }
@@ -2680,7 +2680,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects4.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects4.length = k;}if ( gdjs.Scene2Code.condition2IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition3IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13304316);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13733460);
 }
 }}
 }
@@ -2704,8 +2704,8 @@ if (gdjs.Scene2Code.condition3IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcaeb30
-gdjs.Scene2Code.eventsList0xcb05e0 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd17788
+gdjs.Scene2Code.eventsList0xd19238 = function(runtimeScene) {
 
 {
 
@@ -2728,7 +2728,7 @@ gdjs.Scene2Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.Scene2Code.condition1IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition2IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13306604);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13735748);
 }
 }}
 }
@@ -2748,8 +2748,8 @@ if (gdjs.Scene2Code.condition2IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcb05e0
-gdjs.Scene2Code.eventsList0xcae9b8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd19238
+gdjs.Scene2Code.eventsList0xd17610 = function(runtimeScene) {
 
 {
 
@@ -2789,7 +2789,7 @@ gdjs.Scene2Code.condition3IsTrue_0.val = !(gdjs.evtTools.input.isKeyPressed(runt
 if (gdjs.Scene2Code.condition3IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcaeb30(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd17788(runtimeScene);} //End of subevents
 }
 
 }
@@ -2828,7 +2828,7 @@ gdjs.Scene2Code.GDPlayerObjects4.length = k;}}
 if (gdjs.Scene2Code.condition2IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcb05e0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd19238(runtimeScene);} //End of subevents
 }
 
 }
@@ -3024,8 +3024,8 @@ gdjs.Scene2Code.GDPlayerObjects3.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcae9b8
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDArrowObjects4Objects = Hashtable.newFrom({"Arrow": gdjs.Scene2Code.GDArrowObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDArrowObjects3Objects = Hashtable.newFrom({"Arrow": gdjs.Scene2Code.GDArrowObjects3});gdjs.Scene2Code.eventsList0xcb24e0 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd17610
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDArrowObjects4Objects = Hashtable.newFrom({"Arrow": gdjs.Scene2Code.GDArrowObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDArrowObjects3Objects = Hashtable.newFrom({"Arrow": gdjs.Scene2Code.GDArrowObjects3});gdjs.Scene2Code.eventsList0xd1b138 = function(runtimeScene) {
 
 {
 
@@ -3045,7 +3045,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects4.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects4.length = k;}if ( gdjs.Scene2Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition1IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13313932);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13743076);
 }
 }}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
@@ -3084,7 +3084,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects3.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects3.length = k;}if ( gdjs.Scene2Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition1IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13315124);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13744268);
 }
 }}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
@@ -3109,8 +3109,8 @@ gdjs.Scene2Code.GDArrowObjects3.length = 0;
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcb24e0
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDArrowObjects3Objects = Hashtable.newFrom({"Arrow": gdjs.Scene2Code.GDArrowObjects3});gdjs.Scene2Code.eventsList0xcb3108 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd1b138
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDArrowObjects3Objects = Hashtable.newFrom({"Arrow": gdjs.Scene2Code.GDArrowObjects3});gdjs.Scene2Code.eventsList0xd1bd60 = function(runtimeScene) {
 
 {
 
@@ -3159,8 +3159,8 @@ gdjs.Scene2Code.GDArrowObjects3.length = k;}if (gdjs.Scene2Code.condition0IsTrue
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcb3108
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDArrowObjects4Objects = Hashtable.newFrom({"Arrow": gdjs.Scene2Code.GDArrowObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassBottomInnerCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassEmptyObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassEmpty2Objects4ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassSideObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassSinglePlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassSlope1Objects4ObjectsGDgdjs_46Scene2Code_46GDGrassSlope2Objects4ObjectsGDgdjs_46Scene2Code_46GDGrassTopObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassTopCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilCaveTransitionObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilInnerCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilSinglePlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilSlope1Objects4ObjectsGDgdjs_46Scene2Code_46GDSoilSlope2Objects4ObjectsGDgdjs_46Scene2Code_46GDSoilTopObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterSideObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterTopObjects4ObjectsGDgdjs_46Scene2Code_46GDWallEmptyObjects4ObjectsGDgdjs_46Scene2Code_46GDWallEmpty2Objects4ObjectsGDgdjs_46Scene2Code_46GDWallSideObjects4ObjectsGDgdjs_46Scene2Code_46GDWallSlopeObjects4ObjectsGDgdjs_46Scene2Code_46GDWallTopObjects4ObjectsGDgdjs_46Scene2Code_46GDWaterObjects4ObjectsGDgdjs_46Scene2Code_46GDWaterSolidObjects4ObjectsGDgdjs_46Scene2Code_46GDBridgeObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzBottomObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzCornerBottomObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzEmptyObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzInnerCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzSideObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlope1Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlope2Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom1Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom2Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzTopObjects4Objects = Hashtable.newFrom({"GrassBottomInnerCorner": gdjs.Scene2Code.GDGrassBottomInnerCornerObjects4, "GrassEmpty": gdjs.Scene2Code.GDGrassEmptyObjects4, "GrassEmpty2": gdjs.Scene2Code.GDGrassEmpty2Objects4, "GrassPlatform": gdjs.Scene2Code.GDGrassPlatformObjects4, "GrassPlatformCorner": gdjs.Scene2Code.GDGrassPlatformCornerObjects4, "GrassSide": gdjs.Scene2Code.GDGrassSideObjects4, "GrassSinglePlatform": gdjs.Scene2Code.GDGrassSinglePlatformObjects4, "GrassSlope1": gdjs.Scene2Code.GDGrassSlope1Objects4, "GrassSlope2": gdjs.Scene2Code.GDGrassSlope2Objects4, "GrassTop": gdjs.Scene2Code.GDGrassTopObjects4, "GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects4, "SoilCaveTransition": gdjs.Scene2Code.GDSoilCaveTransitionObjects4, "SoilCorner": gdjs.Scene2Code.GDSoilCornerObjects4, "SoilInnerCorner": gdjs.Scene2Code.GDSoilInnerCornerObjects4, "SoilPlatform": gdjs.Scene2Code.GDSoilPlatformObjects4, "SoilPlatformCorner": gdjs.Scene2Code.GDSoilPlatformCornerObjects4, "SoilSinglePlatform": gdjs.Scene2Code.GDSoilSinglePlatformObjects4, "SoilSlope1": gdjs.Scene2Code.GDSoilSlope1Objects4, "SoilSlope2": gdjs.Scene2Code.GDSoilSlope2Objects4, "SoilTop": gdjs.Scene2Code.GDSoilTopObjects4, "SoilUnderwaterSide": gdjs.Scene2Code.GDSoilUnderwaterSideObjects4, "SoilUnderwaterTop": gdjs.Scene2Code.GDSoilUnderwaterTopObjects4, "WallEmpty": gdjs.Scene2Code.GDWallEmptyObjects4, "WallEmpty2": gdjs.Scene2Code.GDWallEmpty2Objects4, "WallSide": gdjs.Scene2Code.GDWallSideObjects4, "WallSlope": gdjs.Scene2Code.GDWallSlopeObjects4, "WallTop": gdjs.Scene2Code.GDWallTopObjects4, "Water": gdjs.Scene2Code.GDWaterObjects4, "WaterSolid": gdjs.Scene2Code.GDWaterSolidObjects4, "Bridge": gdjs.Scene2Code.GDBridgeObjects4, "FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects4, "CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects4, "FrzBottom": gdjs.Scene2Code.GDFrzBottomObjects4, "FrzCornerBottom": gdjs.Scene2Code.GDFrzCornerBottomObjects4, "FrzEmpty": gdjs.Scene2Code.GDFrzEmptyObjects4, "FrzInnerCorner": gdjs.Scene2Code.GDFrzInnerCornerObjects4, "FrzSide": gdjs.Scene2Code.GDFrzSideObjects4, "FrzSlope1": gdjs.Scene2Code.GDFrzSlope1Objects4, "FrzSlope2": gdjs.Scene2Code.GDFrzSlope2Objects4, "FrzSlopeBottom1": gdjs.Scene2Code.GDFrzSlopeBottom1Objects4, "FrzSlopeBottom2": gdjs.Scene2Code.GDFrzSlopeBottom2Objects4, "FrzTop": gdjs.Scene2Code.GDFrzTopObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects3Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassBottomInnerCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassEmptyObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassEmpty2Objects3ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassSideObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassSinglePlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassSlope1Objects3ObjectsGDgdjs_46Scene2Code_46GDGrassSlope2Objects3ObjectsGDgdjs_46Scene2Code_46GDGrassTopObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassTopCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilCaveTransitionObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilInnerCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilSinglePlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilSlope1Objects3ObjectsGDgdjs_46Scene2Code_46GDSoilSlope2Objects3ObjectsGDgdjs_46Scene2Code_46GDSoilTopObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterSideObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterTopObjects3ObjectsGDgdjs_46Scene2Code_46GDWallEmptyObjects3ObjectsGDgdjs_46Scene2Code_46GDWallEmpty2Objects3ObjectsGDgdjs_46Scene2Code_46GDWallSideObjects3ObjectsGDgdjs_46Scene2Code_46GDWallSlopeObjects3ObjectsGDgdjs_46Scene2Code_46GDWallTopObjects3ObjectsGDgdjs_46Scene2Code_46GDWaterObjects3ObjectsGDgdjs_46Scene2Code_46GDWaterSolidObjects3ObjectsGDgdjs_46Scene2Code_46GDBridgeObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzBottomObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzCornerBottomObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzEmptyObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzInnerCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzSideObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzSlope1Objects3ObjectsGDgdjs_46Scene2Code_46GDFrzSlope2Objects3ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom1Objects3ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom2Objects3ObjectsGDgdjs_46Scene2Code_46GDFrzTopObjects3Objects = Hashtable.newFrom({"GrassBottomInnerCorner": gdjs.Scene2Code.GDGrassBottomInnerCornerObjects3, "GrassEmpty": gdjs.Scene2Code.GDGrassEmptyObjects3, "GrassEmpty2": gdjs.Scene2Code.GDGrassEmpty2Objects3, "GrassPlatform": gdjs.Scene2Code.GDGrassPlatformObjects3, "GrassPlatformCorner": gdjs.Scene2Code.GDGrassPlatformCornerObjects3, "GrassSide": gdjs.Scene2Code.GDGrassSideObjects3, "GrassSinglePlatform": gdjs.Scene2Code.GDGrassSinglePlatformObjects3, "GrassSlope1": gdjs.Scene2Code.GDGrassSlope1Objects3, "GrassSlope2": gdjs.Scene2Code.GDGrassSlope2Objects3, "GrassTop": gdjs.Scene2Code.GDGrassTopObjects3, "GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects3, "SoilCaveTransition": gdjs.Scene2Code.GDSoilCaveTransitionObjects3, "SoilCorner": gdjs.Scene2Code.GDSoilCornerObjects3, "SoilInnerCorner": gdjs.Scene2Code.GDSoilInnerCornerObjects3, "SoilPlatform": gdjs.Scene2Code.GDSoilPlatformObjects3, "SoilPlatformCorner": gdjs.Scene2Code.GDSoilPlatformCornerObjects3, "SoilSinglePlatform": gdjs.Scene2Code.GDSoilSinglePlatformObjects3, "SoilSlope1": gdjs.Scene2Code.GDSoilSlope1Objects3, "SoilSlope2": gdjs.Scene2Code.GDSoilSlope2Objects3, "SoilTop": gdjs.Scene2Code.GDSoilTopObjects3, "SoilUnderwaterSide": gdjs.Scene2Code.GDSoilUnderwaterSideObjects3, "SoilUnderwaterTop": gdjs.Scene2Code.GDSoilUnderwaterTopObjects3, "WallEmpty": gdjs.Scene2Code.GDWallEmptyObjects3, "WallEmpty2": gdjs.Scene2Code.GDWallEmpty2Objects3, "WallSide": gdjs.Scene2Code.GDWallSideObjects3, "WallSlope": gdjs.Scene2Code.GDWallSlopeObjects3, "WallTop": gdjs.Scene2Code.GDWallTopObjects3, "Water": gdjs.Scene2Code.GDWaterObjects3, "WaterSolid": gdjs.Scene2Code.GDWaterSolidObjects3, "Bridge": gdjs.Scene2Code.GDBridgeObjects3, "FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects3, "CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects3, "FrzBottom": gdjs.Scene2Code.GDFrzBottomObjects3, "FrzCornerBottom": gdjs.Scene2Code.GDFrzCornerBottomObjects3, "FrzEmpty": gdjs.Scene2Code.GDFrzEmptyObjects3, "FrzInnerCorner": gdjs.Scene2Code.GDFrzInnerCornerObjects3, "FrzSide": gdjs.Scene2Code.GDFrzSideObjects3, "FrzSlope1": gdjs.Scene2Code.GDFrzSlope1Objects3, "FrzSlope2": gdjs.Scene2Code.GDFrzSlope2Objects3, "FrzSlopeBottom1": gdjs.Scene2Code.GDFrzSlopeBottom1Objects3, "FrzSlopeBottom2": gdjs.Scene2Code.GDFrzSlopeBottom2Objects3, "FrzTop": gdjs.Scene2Code.GDFrzTopObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassBottomInnerCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassEmptyObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassEmpty2Objects3ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassSideObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassSinglePlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassSlope1Objects3ObjectsGDgdjs_46Scene2Code_46GDGrassSlope2Objects3ObjectsGDgdjs_46Scene2Code_46GDGrassTopObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassTopCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilCaveTransitionObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilInnerCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilSinglePlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilSlope1Objects3ObjectsGDgdjs_46Scene2Code_46GDSoilSlope2Objects3ObjectsGDgdjs_46Scene2Code_46GDSoilTopObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterSideObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterTopObjects3ObjectsGDgdjs_46Scene2Code_46GDWallEmptyObjects3ObjectsGDgdjs_46Scene2Code_46GDWallEmpty2Objects3ObjectsGDgdjs_46Scene2Code_46GDWallSideObjects3ObjectsGDgdjs_46Scene2Code_46GDWallSlopeObjects3ObjectsGDgdjs_46Scene2Code_46GDWallTopObjects3ObjectsGDgdjs_46Scene2Code_46GDWaterObjects3ObjectsGDgdjs_46Scene2Code_46GDWaterSolidObjects3ObjectsGDgdjs_46Scene2Code_46GDBridgeObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzBottomObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzCornerBottomObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzEmptyObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzInnerCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzSideObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzSlope1Objects3ObjectsGDgdjs_46Scene2Code_46GDFrzSlope2Objects3ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom1Objects3ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom2Objects3ObjectsGDgdjs_46Scene2Code_46GDFrzTopObjects3Objects = Hashtable.newFrom({"GrassBottomInnerCorner": gdjs.Scene2Code.GDGrassBottomInnerCornerObjects3, "GrassEmpty": gdjs.Scene2Code.GDGrassEmptyObjects3, "GrassEmpty2": gdjs.Scene2Code.GDGrassEmpty2Objects3, "GrassPlatform": gdjs.Scene2Code.GDGrassPlatformObjects3, "GrassPlatformCorner": gdjs.Scene2Code.GDGrassPlatformCornerObjects3, "GrassSide": gdjs.Scene2Code.GDGrassSideObjects3, "GrassSinglePlatform": gdjs.Scene2Code.GDGrassSinglePlatformObjects3, "GrassSlope1": gdjs.Scene2Code.GDGrassSlope1Objects3, "GrassSlope2": gdjs.Scene2Code.GDGrassSlope2Objects3, "GrassTop": gdjs.Scene2Code.GDGrassTopObjects3, "GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects3, "SoilCaveTransition": gdjs.Scene2Code.GDSoilCaveTransitionObjects3, "SoilCorner": gdjs.Scene2Code.GDSoilCornerObjects3, "SoilInnerCorner": gdjs.Scene2Code.GDSoilInnerCornerObjects3, "SoilPlatform": gdjs.Scene2Code.GDSoilPlatformObjects3, "SoilPlatformCorner": gdjs.Scene2Code.GDSoilPlatformCornerObjects3, "SoilSinglePlatform": gdjs.Scene2Code.GDSoilSinglePlatformObjects3, "SoilSlope1": gdjs.Scene2Code.GDSoilSlope1Objects3, "SoilSlope2": gdjs.Scene2Code.GDSoilSlope2Objects3, "SoilTop": gdjs.Scene2Code.GDSoilTopObjects3, "SoilUnderwaterSide": gdjs.Scene2Code.GDSoilUnderwaterSideObjects3, "SoilUnderwaterTop": gdjs.Scene2Code.GDSoilUnderwaterTopObjects3, "WallEmpty": gdjs.Scene2Code.GDWallEmptyObjects3, "WallEmpty2": gdjs.Scene2Code.GDWallEmpty2Objects3, "WallSide": gdjs.Scene2Code.GDWallSideObjects3, "WallSlope": gdjs.Scene2Code.GDWallSlopeObjects3, "WallTop": gdjs.Scene2Code.GDWallTopObjects3, "Water": gdjs.Scene2Code.GDWaterObjects3, "WaterSolid": gdjs.Scene2Code.GDWaterSolidObjects3, "Bridge": gdjs.Scene2Code.GDBridgeObjects3, "FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects3, "CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects3, "FrzBottom": gdjs.Scene2Code.GDFrzBottomObjects3, "FrzCornerBottom": gdjs.Scene2Code.GDFrzCornerBottomObjects3, "FrzEmpty": gdjs.Scene2Code.GDFrzEmptyObjects3, "FrzInnerCorner": gdjs.Scene2Code.GDFrzInnerCornerObjects3, "FrzSide": gdjs.Scene2Code.GDFrzSideObjects3, "FrzSlope1": gdjs.Scene2Code.GDFrzSlope1Objects3, "FrzSlope2": gdjs.Scene2Code.GDFrzSlope2Objects3, "FrzSlopeBottom1": gdjs.Scene2Code.GDFrzSlopeBottom1Objects3, "FrzSlopeBottom2": gdjs.Scene2Code.GDFrzSlopeBottom2Objects3, "FrzTop": gdjs.Scene2Code.GDFrzTopObjects3});gdjs.Scene2Code.eventsList0xcb3c60 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd1bd60
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDArrowObjects4Objects = Hashtable.newFrom({"Arrow": gdjs.Scene2Code.GDArrowObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassBottomInnerCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassEmptyObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassEmpty2Objects4ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassSideObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassSinglePlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassSlope1Objects4ObjectsGDgdjs_46Scene2Code_46GDGrassSlope2Objects4ObjectsGDgdjs_46Scene2Code_46GDGrassTopObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassTopCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilCaveTransitionObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilInnerCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilSinglePlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilSlope1Objects4ObjectsGDgdjs_46Scene2Code_46GDSoilSlope2Objects4ObjectsGDgdjs_46Scene2Code_46GDSoilTopObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterSideObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterTopObjects4ObjectsGDgdjs_46Scene2Code_46GDWallEmptyObjects4ObjectsGDgdjs_46Scene2Code_46GDWallEmpty2Objects4ObjectsGDgdjs_46Scene2Code_46GDWallSideObjects4ObjectsGDgdjs_46Scene2Code_46GDWallSlopeObjects4ObjectsGDgdjs_46Scene2Code_46GDWallTopObjects4ObjectsGDgdjs_46Scene2Code_46GDWaterObjects4ObjectsGDgdjs_46Scene2Code_46GDWaterSolidObjects4ObjectsGDgdjs_46Scene2Code_46GDBridgeObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzBottomObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzCornerBottomObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzEmptyObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzInnerCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzSideObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlope1Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlope2Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom1Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom2Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzTopObjects4Objects = Hashtable.newFrom({"GrassBottomInnerCorner": gdjs.Scene2Code.GDGrassBottomInnerCornerObjects4, "GrassEmpty": gdjs.Scene2Code.GDGrassEmptyObjects4, "GrassEmpty2": gdjs.Scene2Code.GDGrassEmpty2Objects4, "GrassPlatform": gdjs.Scene2Code.GDGrassPlatformObjects4, "GrassPlatformCorner": gdjs.Scene2Code.GDGrassPlatformCornerObjects4, "GrassSide": gdjs.Scene2Code.GDGrassSideObjects4, "GrassSinglePlatform": gdjs.Scene2Code.GDGrassSinglePlatformObjects4, "GrassSlope1": gdjs.Scene2Code.GDGrassSlope1Objects4, "GrassSlope2": gdjs.Scene2Code.GDGrassSlope2Objects4, "GrassTop": gdjs.Scene2Code.GDGrassTopObjects4, "GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects4, "SoilCaveTransition": gdjs.Scene2Code.GDSoilCaveTransitionObjects4, "SoilCorner": gdjs.Scene2Code.GDSoilCornerObjects4, "SoilInnerCorner": gdjs.Scene2Code.GDSoilInnerCornerObjects4, "SoilPlatform": gdjs.Scene2Code.GDSoilPlatformObjects4, "SoilPlatformCorner": gdjs.Scene2Code.GDSoilPlatformCornerObjects4, "SoilSinglePlatform": gdjs.Scene2Code.GDSoilSinglePlatformObjects4, "SoilSlope1": gdjs.Scene2Code.GDSoilSlope1Objects4, "SoilSlope2": gdjs.Scene2Code.GDSoilSlope2Objects4, "SoilTop": gdjs.Scene2Code.GDSoilTopObjects4, "SoilUnderwaterSide": gdjs.Scene2Code.GDSoilUnderwaterSideObjects4, "SoilUnderwaterTop": gdjs.Scene2Code.GDSoilUnderwaterTopObjects4, "WallEmpty": gdjs.Scene2Code.GDWallEmptyObjects4, "WallEmpty2": gdjs.Scene2Code.GDWallEmpty2Objects4, "WallSide": gdjs.Scene2Code.GDWallSideObjects4, "WallSlope": gdjs.Scene2Code.GDWallSlopeObjects4, "WallTop": gdjs.Scene2Code.GDWallTopObjects4, "Water": gdjs.Scene2Code.GDWaterObjects4, "WaterSolid": gdjs.Scene2Code.GDWaterSolidObjects4, "Bridge": gdjs.Scene2Code.GDBridgeObjects4, "FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects4, "CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects4, "FrzBottom": gdjs.Scene2Code.GDFrzBottomObjects4, "FrzCornerBottom": gdjs.Scene2Code.GDFrzCornerBottomObjects4, "FrzEmpty": gdjs.Scene2Code.GDFrzEmptyObjects4, "FrzInnerCorner": gdjs.Scene2Code.GDFrzInnerCornerObjects4, "FrzSide": gdjs.Scene2Code.GDFrzSideObjects4, "FrzSlope1": gdjs.Scene2Code.GDFrzSlope1Objects4, "FrzSlope2": gdjs.Scene2Code.GDFrzSlope2Objects4, "FrzSlopeBottom1": gdjs.Scene2Code.GDFrzSlopeBottom1Objects4, "FrzSlopeBottom2": gdjs.Scene2Code.GDFrzSlopeBottom2Objects4, "FrzTop": gdjs.Scene2Code.GDFrzTopObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects3Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassBottomInnerCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassEmptyObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassEmpty2Objects3ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassSideObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassSinglePlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassSlope1Objects3ObjectsGDgdjs_46Scene2Code_46GDGrassSlope2Objects3ObjectsGDgdjs_46Scene2Code_46GDGrassTopObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassTopCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilCaveTransitionObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilInnerCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilSinglePlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilSlope1Objects3ObjectsGDgdjs_46Scene2Code_46GDSoilSlope2Objects3ObjectsGDgdjs_46Scene2Code_46GDSoilTopObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterSideObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterTopObjects3ObjectsGDgdjs_46Scene2Code_46GDWallEmptyObjects3ObjectsGDgdjs_46Scene2Code_46GDWallEmpty2Objects3ObjectsGDgdjs_46Scene2Code_46GDWallSideObjects3ObjectsGDgdjs_46Scene2Code_46GDWallSlopeObjects3ObjectsGDgdjs_46Scene2Code_46GDWallTopObjects3ObjectsGDgdjs_46Scene2Code_46GDWaterObjects3ObjectsGDgdjs_46Scene2Code_46GDWaterSolidObjects3ObjectsGDgdjs_46Scene2Code_46GDBridgeObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzBottomObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzCornerBottomObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzEmptyObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzInnerCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzSideObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzSlope1Objects3ObjectsGDgdjs_46Scene2Code_46GDFrzSlope2Objects3ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom1Objects3ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom2Objects3ObjectsGDgdjs_46Scene2Code_46GDFrzTopObjects3Objects = Hashtable.newFrom({"GrassBottomInnerCorner": gdjs.Scene2Code.GDGrassBottomInnerCornerObjects3, "GrassEmpty": gdjs.Scene2Code.GDGrassEmptyObjects3, "GrassEmpty2": gdjs.Scene2Code.GDGrassEmpty2Objects3, "GrassPlatform": gdjs.Scene2Code.GDGrassPlatformObjects3, "GrassPlatformCorner": gdjs.Scene2Code.GDGrassPlatformCornerObjects3, "GrassSide": gdjs.Scene2Code.GDGrassSideObjects3, "GrassSinglePlatform": gdjs.Scene2Code.GDGrassSinglePlatformObjects3, "GrassSlope1": gdjs.Scene2Code.GDGrassSlope1Objects3, "GrassSlope2": gdjs.Scene2Code.GDGrassSlope2Objects3, "GrassTop": gdjs.Scene2Code.GDGrassTopObjects3, "GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects3, "SoilCaveTransition": gdjs.Scene2Code.GDSoilCaveTransitionObjects3, "SoilCorner": gdjs.Scene2Code.GDSoilCornerObjects3, "SoilInnerCorner": gdjs.Scene2Code.GDSoilInnerCornerObjects3, "SoilPlatform": gdjs.Scene2Code.GDSoilPlatformObjects3, "SoilPlatformCorner": gdjs.Scene2Code.GDSoilPlatformCornerObjects3, "SoilSinglePlatform": gdjs.Scene2Code.GDSoilSinglePlatformObjects3, "SoilSlope1": gdjs.Scene2Code.GDSoilSlope1Objects3, "SoilSlope2": gdjs.Scene2Code.GDSoilSlope2Objects3, "SoilTop": gdjs.Scene2Code.GDSoilTopObjects3, "SoilUnderwaterSide": gdjs.Scene2Code.GDSoilUnderwaterSideObjects3, "SoilUnderwaterTop": gdjs.Scene2Code.GDSoilUnderwaterTopObjects3, "WallEmpty": gdjs.Scene2Code.GDWallEmptyObjects3, "WallEmpty2": gdjs.Scene2Code.GDWallEmpty2Objects3, "WallSide": gdjs.Scene2Code.GDWallSideObjects3, "WallSlope": gdjs.Scene2Code.GDWallSlopeObjects3, "WallTop": gdjs.Scene2Code.GDWallTopObjects3, "Water": gdjs.Scene2Code.GDWaterObjects3, "WaterSolid": gdjs.Scene2Code.GDWaterSolidObjects3, "Bridge": gdjs.Scene2Code.GDBridgeObjects3, "FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects3, "CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects3, "FrzBottom": gdjs.Scene2Code.GDFrzBottomObjects3, "FrzCornerBottom": gdjs.Scene2Code.GDFrzCornerBottomObjects3, "FrzEmpty": gdjs.Scene2Code.GDFrzEmptyObjects3, "FrzInnerCorner": gdjs.Scene2Code.GDFrzInnerCornerObjects3, "FrzSide": gdjs.Scene2Code.GDFrzSideObjects3, "FrzSlope1": gdjs.Scene2Code.GDFrzSlope1Objects3, "FrzSlope2": gdjs.Scene2Code.GDFrzSlope2Objects3, "FrzSlopeBottom1": gdjs.Scene2Code.GDFrzSlopeBottom1Objects3, "FrzSlopeBottom2": gdjs.Scene2Code.GDFrzSlopeBottom2Objects3, "FrzTop": gdjs.Scene2Code.GDFrzTopObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassBottomInnerCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassEmptyObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassEmpty2Objects3ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassSideObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassSinglePlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassSlope1Objects3ObjectsGDgdjs_46Scene2Code_46GDGrassSlope2Objects3ObjectsGDgdjs_46Scene2Code_46GDGrassTopObjects3ObjectsGDgdjs_46Scene2Code_46GDGrassTopCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilCaveTransitionObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilInnerCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilSinglePlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilSlope1Objects3ObjectsGDgdjs_46Scene2Code_46GDSoilSlope2Objects3ObjectsGDgdjs_46Scene2Code_46GDSoilTopObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterSideObjects3ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterTopObjects3ObjectsGDgdjs_46Scene2Code_46GDWallEmptyObjects3ObjectsGDgdjs_46Scene2Code_46GDWallEmpty2Objects3ObjectsGDgdjs_46Scene2Code_46GDWallSideObjects3ObjectsGDgdjs_46Scene2Code_46GDWallSlopeObjects3ObjectsGDgdjs_46Scene2Code_46GDWallTopObjects3ObjectsGDgdjs_46Scene2Code_46GDWaterObjects3ObjectsGDgdjs_46Scene2Code_46GDWaterSolidObjects3ObjectsGDgdjs_46Scene2Code_46GDBridgeObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzBottomObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzCornerBottomObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzEmptyObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzInnerCornerObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzSideObjects3ObjectsGDgdjs_46Scene2Code_46GDFrzSlope1Objects3ObjectsGDgdjs_46Scene2Code_46GDFrzSlope2Objects3ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom1Objects3ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom2Objects3ObjectsGDgdjs_46Scene2Code_46GDFrzTopObjects3Objects = Hashtable.newFrom({"GrassBottomInnerCorner": gdjs.Scene2Code.GDGrassBottomInnerCornerObjects3, "GrassEmpty": gdjs.Scene2Code.GDGrassEmptyObjects3, "GrassEmpty2": gdjs.Scene2Code.GDGrassEmpty2Objects3, "GrassPlatform": gdjs.Scene2Code.GDGrassPlatformObjects3, "GrassPlatformCorner": gdjs.Scene2Code.GDGrassPlatformCornerObjects3, "GrassSide": gdjs.Scene2Code.GDGrassSideObjects3, "GrassSinglePlatform": gdjs.Scene2Code.GDGrassSinglePlatformObjects3, "GrassSlope1": gdjs.Scene2Code.GDGrassSlope1Objects3, "GrassSlope2": gdjs.Scene2Code.GDGrassSlope2Objects3, "GrassTop": gdjs.Scene2Code.GDGrassTopObjects3, "GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects3, "SoilCaveTransition": gdjs.Scene2Code.GDSoilCaveTransitionObjects3, "SoilCorner": gdjs.Scene2Code.GDSoilCornerObjects3, "SoilInnerCorner": gdjs.Scene2Code.GDSoilInnerCornerObjects3, "SoilPlatform": gdjs.Scene2Code.GDSoilPlatformObjects3, "SoilPlatformCorner": gdjs.Scene2Code.GDSoilPlatformCornerObjects3, "SoilSinglePlatform": gdjs.Scene2Code.GDSoilSinglePlatformObjects3, "SoilSlope1": gdjs.Scene2Code.GDSoilSlope1Objects3, "SoilSlope2": gdjs.Scene2Code.GDSoilSlope2Objects3, "SoilTop": gdjs.Scene2Code.GDSoilTopObjects3, "SoilUnderwaterSide": gdjs.Scene2Code.GDSoilUnderwaterSideObjects3, "SoilUnderwaterTop": gdjs.Scene2Code.GDSoilUnderwaterTopObjects3, "WallEmpty": gdjs.Scene2Code.GDWallEmptyObjects3, "WallEmpty2": gdjs.Scene2Code.GDWallEmpty2Objects3, "WallSide": gdjs.Scene2Code.GDWallSideObjects3, "WallSlope": gdjs.Scene2Code.GDWallSlopeObjects3, "WallTop": gdjs.Scene2Code.GDWallTopObjects3, "Water": gdjs.Scene2Code.GDWaterObjects3, "WaterSolid": gdjs.Scene2Code.GDWaterSolidObjects3, "Bridge": gdjs.Scene2Code.GDBridgeObjects3, "FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects3, "CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects3, "FrzBottom": gdjs.Scene2Code.GDFrzBottomObjects3, "FrzCornerBottom": gdjs.Scene2Code.GDFrzCornerBottomObjects3, "FrzEmpty": gdjs.Scene2Code.GDFrzEmptyObjects3, "FrzInnerCorner": gdjs.Scene2Code.GDFrzInnerCornerObjects3, "FrzSide": gdjs.Scene2Code.GDFrzSideObjects3, "FrzSlope1": gdjs.Scene2Code.GDFrzSlope1Objects3, "FrzSlope2": gdjs.Scene2Code.GDFrzSlope2Objects3, "FrzSlopeBottom1": gdjs.Scene2Code.GDFrzSlopeBottom1Objects3, "FrzSlopeBottom2": gdjs.Scene2Code.GDFrzSlopeBottom2Objects3, "FrzTop": gdjs.Scene2Code.GDFrzTopObjects3});gdjs.Scene2Code.eventsList0xd1c8f0 = function(runtimeScene) {
 
 {
 
@@ -3229,8 +3229,8 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcb3c60
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects3Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDOutOfBoundsObjects3Objects = Hashtable.newFrom({"OutOfBounds": gdjs.Scene2Code.GDOutOfBoundsObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects3Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDOutOfBoundsObjects3Objects = Hashtable.newFrom({"OutOfBounds": gdjs.Scene2Code.GDOutOfBoundsObjects3});gdjs.Scene2Code.eventsList0xcb6c50 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd1c8f0
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects3Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDOutOfBoundsObjects3Objects = Hashtable.newFrom({"OutOfBounds": gdjs.Scene2Code.GDOutOfBoundsObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects3Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDOutOfBoundsObjects3Objects = Hashtable.newFrom({"OutOfBounds": gdjs.Scene2Code.GDOutOfBoundsObjects3});gdjs.Scene2Code.eventsList0xd1f8e0 = function(runtimeScene) {
 
 {
 
@@ -3285,8 +3285,8 @@ gdjs.Scene2Code.GDPlayerObjects4.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcb6c50
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects4Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects4Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects4Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects4});gdjs.Scene2Code.eventsList0xcb69a8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd1f8e0
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects4Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects4Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects4Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects4});gdjs.Scene2Code.eventsList0xd1f638 = function(runtimeScene) {
 
 {
 
@@ -3305,7 +3305,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects4.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects4.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcb6c50(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd1f8e0(runtimeScene);} //End of subevents
 }
 
 }
@@ -3397,8 +3397,8 @@ gdjs.Scene2Code.GDPlayerObjects3.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcb69a8
-gdjs.Scene2Code.eventsList0xcb8730 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd1f638
+gdjs.Scene2Code.eventsList0xd213c0 = function(runtimeScene) {
 
 {
 
@@ -3469,8 +3469,8 @@ gdjs.Scene2Code.GDEnemy5Objects3.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcb8730
-gdjs.Scene2Code.eventsList0xcb8e80 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd213c0
+gdjs.Scene2Code.eventsList0xd21b10 = function(runtimeScene) {
 
 {
 
@@ -3505,8 +3505,8 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcb8e80
-gdjs.Scene2Code.eventsList0xca6fd8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd21b10
+gdjs.Scene2Code.eventsList0xd0fc30 = function(runtimeScene) {
 
 {
 
@@ -3522,7 +3522,7 @@ gdjs.Scene2Code.condition1IsTrue_0.val = !(gdjs.evtTools.input.isKeyPressed(runt
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xca7138(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd0fd90(runtimeScene);} //End of subevents
 }
 
 }
@@ -3580,7 +3580,7 @@ if (gdjs.Scene2Code.condition2IsTrue_0.val) {
 }
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xcaaa50(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd136a8(runtimeScene);} //End of subevents
 }
 
 }
@@ -3646,7 +3646,7 @@ gdjs.Scene2Code.GDPlayerObjects3.length = k;}}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcacd68(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd159c0(runtimeScene);} //End of subevents
 }
 
 }
@@ -3694,7 +3694,7 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcad840(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd16498(runtimeScene);} //End of subevents
 }
 
 }
@@ -3752,7 +3752,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects3.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects3.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcae9b8(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd17610(runtimeScene);} //End of subevents
 }
 
 }
@@ -3792,7 +3792,7 @@ gdjs.Scene2Code.GDPlayerObjects3.length = k;}}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcb24e0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd1b138(runtimeScene);} //End of subevents
 }
 
 }
@@ -3808,7 +3808,7 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCount
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcb3108(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd1bd60(runtimeScene);} //End of subevents
 }
 
 }
@@ -4330,7 +4330,7 @@ gdjs.Scene2Code.GDHealthObjects3.createFrom(runtimeScene.getObjects("Health"));
 }
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xcb3c60(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd1c8f0(runtimeScene);} //End of subevents
 }
 
 }
@@ -4554,7 +4554,7 @@ gdjs.Scene2Code.GDPlayerObjects3.createFrom(gdjs.Scene2Code.GDPlayerObjects3_1fi
 }if ( gdjs.Scene2Code.condition1IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition2IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13326844);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13756044);
 }
 }}
 }
@@ -4615,7 +4615,7 @@ gdjs.Scene2Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.Scene2Code.condition1IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition2IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13329972);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13759172);
 }
 }}
 }
@@ -4645,7 +4645,7 @@ gdjs.Scene2Code.GDPlayerObjects3.createFrom(runtimeScene.getObjects("Player"));
 }
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xcb69a8(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd1f638(runtimeScene);} //End of subevents
 }
 
 }
@@ -4721,7 +4721,7 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsed
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcb8730(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd213c0(runtimeScene);} //End of subevents
 }
 
 }
@@ -4736,7 +4736,7 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsed
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcb8e80(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd21b10(runtimeScene);} //End of subevents
 }
 
 }
@@ -4823,7 +4823,7 @@ gdjs.Scene2Code.GDPlayerObjects3.createFrom(gdjs.Scene2Code.GDPlayerObjects3_1fi
 }if ( gdjs.Scene2Code.condition2IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition3IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13344020);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13773220);
 }
 }}
 }
@@ -4856,8 +4856,8 @@ gdjs.Scene2Code.GDCrateObjects2.createFrom(runtimeScene.getObjects("Crate"));
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xca6fd8
-gdjs.Scene2Code.eventsList0xca6f00 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd0fc30
+gdjs.Scene2Code.eventsList0xd0fb58 = function(runtimeScene) {
 
 {
 
@@ -4868,14 +4868,14 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerPaused(
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xca6fd8(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd0fc30(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xca6f00
-gdjs.Scene2Code.eventsList0xcba250 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd0fb58
+gdjs.Scene2Code.eventsList0xd22ee0 = function(runtimeScene) {
 
 {
 
@@ -4929,8 +4929,8 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsed
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcba250
-gdjs.Scene2Code.eventsList0xcae4e8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd22ee0
+gdjs.Scene2Code.eventsList0xd17140 = function(runtimeScene) {
 
 {
 
@@ -4941,14 +4941,14 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerPaused(
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcba250(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd22ee0(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcae4e8
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects4Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemyBoundaryObjects4Objects = Hashtable.newFrom({"EnemyBoundary": gdjs.Scene2Code.GDEnemyBoundaryObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemyBoundaryObjects4Objects = Hashtable.newFrom({"EnemyBoundary": gdjs.Scene2Code.GDEnemyBoundaryObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects3Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects3Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects3Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects3});gdjs.Scene2Code.eventsList0xcbb508 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd17140
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects4Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemyBoundaryObjects4Objects = Hashtable.newFrom({"EnemyBoundary": gdjs.Scene2Code.GDEnemyBoundaryObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemyBoundaryObjects4Objects = Hashtable.newFrom({"EnemyBoundary": gdjs.Scene2Code.GDEnemyBoundaryObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects3Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects3Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects3Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects3});gdjs.Scene2Code.eventsList0xd24198 = function(runtimeScene) {
 
 {
 
@@ -4989,8 +4989,8 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcbb508
-gdjs.Scene2Code.eventsList0xcbafa0 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd24198
+gdjs.Scene2Code.eventsList0xd23c30 = function(runtimeScene) {
 
 {
 
@@ -5034,14 +5034,14 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionT
 {runtimeScene.getVariables().getFromIndex(2).setNumber(3);
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xcbb508(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd24198(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcbafa0
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects4Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects4Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects3Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassTopCornerObjects3Objects = Hashtable.newFrom({"GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects3});gdjs.Scene2Code.eventsList0xcbc0a0 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd23c30
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects4Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects4Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects3Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassTopCornerObjects3Objects = Hashtable.newFrom({"GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects3});gdjs.Scene2Code.eventsList0xd24d30 = function(runtimeScene) {
 
 {
 
@@ -5142,8 +5142,8 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionT
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcbc0a0
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects5Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDFrzCornerObjects5Objects = Hashtable.newFrom({"FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects5Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects5Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects5});gdjs.Scene2Code.eventsList0xcbdbf8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd24d30
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects5Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDFrzCornerObjects5Objects = Hashtable.newFrom({"FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects5Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects5Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects5});gdjs.Scene2Code.eventsList0xd26888 = function(runtimeScene) {
 
 {
 
@@ -5254,8 +5254,8 @@ if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcbdbf8
-gdjs.Scene2Code.eventsList0xcbe880 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd26888
+gdjs.Scene2Code.eventsList0xd27510 = function(runtimeScene) {
 
 {
 
@@ -5345,8 +5345,8 @@ gdjs.Scene2Code.GDEnemy3Objects4.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcbe880
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects5Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects5});gdjs.Scene2Code.eventsList0xcbfa00 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd27510
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects5Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects5});gdjs.Scene2Code.eventsList0xd28690 = function(runtimeScene) {
 
 {
 
@@ -5398,8 +5398,8 @@ gdjs.Scene2Code.GDPlayerObjects5.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcbfa00
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects5Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassBottomInnerCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassEmptyObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassEmpty2Objects5ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassSideObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassSinglePlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassSlope1Objects5ObjectsGDgdjs_46Scene2Code_46GDGrassSlope2Objects5ObjectsGDgdjs_46Scene2Code_46GDGrassTopObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassTopCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilCaveTransitionObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilInnerCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilSinglePlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilSlope1Objects5ObjectsGDgdjs_46Scene2Code_46GDSoilSlope2Objects5ObjectsGDgdjs_46Scene2Code_46GDSoilTopObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterSideObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterTopObjects5ObjectsGDgdjs_46Scene2Code_46GDWallEmptyObjects5ObjectsGDgdjs_46Scene2Code_46GDWallEmpty2Objects5ObjectsGDgdjs_46Scene2Code_46GDWallSideObjects5ObjectsGDgdjs_46Scene2Code_46GDWallSlopeObjects5ObjectsGDgdjs_46Scene2Code_46GDWallTopObjects5ObjectsGDgdjs_46Scene2Code_46GDWaterObjects5ObjectsGDgdjs_46Scene2Code_46GDWaterSolidObjects5ObjectsGDgdjs_46Scene2Code_46GDBridgeObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzBottomObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzCornerBottomObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzEmptyObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzInnerCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzSideObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzSlope1Objects5ObjectsGDgdjs_46Scene2Code_46GDFrzSlope2Objects5ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom1Objects5ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom2Objects5ObjectsGDgdjs_46Scene2Code_46GDFrzTopObjects5Objects = Hashtable.newFrom({"GrassBottomInnerCorner": gdjs.Scene2Code.GDGrassBottomInnerCornerObjects5, "GrassEmpty": gdjs.Scene2Code.GDGrassEmptyObjects5, "GrassEmpty2": gdjs.Scene2Code.GDGrassEmpty2Objects5, "GrassPlatform": gdjs.Scene2Code.GDGrassPlatformObjects5, "GrassPlatformCorner": gdjs.Scene2Code.GDGrassPlatformCornerObjects5, "GrassSide": gdjs.Scene2Code.GDGrassSideObjects5, "GrassSinglePlatform": gdjs.Scene2Code.GDGrassSinglePlatformObjects5, "GrassSlope1": gdjs.Scene2Code.GDGrassSlope1Objects5, "GrassSlope2": gdjs.Scene2Code.GDGrassSlope2Objects5, "GrassTop": gdjs.Scene2Code.GDGrassTopObjects5, "GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects5, "SoilCaveTransition": gdjs.Scene2Code.GDSoilCaveTransitionObjects5, "SoilCorner": gdjs.Scene2Code.GDSoilCornerObjects5, "SoilInnerCorner": gdjs.Scene2Code.GDSoilInnerCornerObjects5, "SoilPlatform": gdjs.Scene2Code.GDSoilPlatformObjects5, "SoilPlatformCorner": gdjs.Scene2Code.GDSoilPlatformCornerObjects5, "SoilSinglePlatform": gdjs.Scene2Code.GDSoilSinglePlatformObjects5, "SoilSlope1": gdjs.Scene2Code.GDSoilSlope1Objects5, "SoilSlope2": gdjs.Scene2Code.GDSoilSlope2Objects5, "SoilTop": gdjs.Scene2Code.GDSoilTopObjects5, "SoilUnderwaterSide": gdjs.Scene2Code.GDSoilUnderwaterSideObjects5, "SoilUnderwaterTop": gdjs.Scene2Code.GDSoilUnderwaterTopObjects5, "WallEmpty": gdjs.Scene2Code.GDWallEmptyObjects5, "WallEmpty2": gdjs.Scene2Code.GDWallEmpty2Objects5, "WallSide": gdjs.Scene2Code.GDWallSideObjects5, "WallSlope": gdjs.Scene2Code.GDWallSlopeObjects5, "WallTop": gdjs.Scene2Code.GDWallTopObjects5, "Water": gdjs.Scene2Code.GDWaterObjects5, "WaterSolid": gdjs.Scene2Code.GDWaterSolidObjects5, "Bridge": gdjs.Scene2Code.GDBridgeObjects5, "FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects5, "CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects5, "FrzBottom": gdjs.Scene2Code.GDFrzBottomObjects5, "FrzCornerBottom": gdjs.Scene2Code.GDFrzCornerBottomObjects5, "FrzEmpty": gdjs.Scene2Code.GDFrzEmptyObjects5, "FrzInnerCorner": gdjs.Scene2Code.GDFrzInnerCornerObjects5, "FrzSide": gdjs.Scene2Code.GDFrzSideObjects5, "FrzSlope1": gdjs.Scene2Code.GDFrzSlope1Objects5, "FrzSlope2": gdjs.Scene2Code.GDFrzSlope2Objects5, "FrzSlopeBottom1": gdjs.Scene2Code.GDFrzSlopeBottom1Objects5, "FrzSlopeBottom2": gdjs.Scene2Code.GDFrzSlopeBottom2Objects5, "FrzTop": gdjs.Scene2Code.GDFrzTopObjects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassBottomInnerCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassEmptyObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassEmpty2Objects5ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassSideObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassSinglePlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassSlope1Objects5ObjectsGDgdjs_46Scene2Code_46GDGrassSlope2Objects5ObjectsGDgdjs_46Scene2Code_46GDGrassTopObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassTopCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilCaveTransitionObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilInnerCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilSinglePlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilSlope1Objects5ObjectsGDgdjs_46Scene2Code_46GDSoilSlope2Objects5ObjectsGDgdjs_46Scene2Code_46GDSoilTopObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterSideObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterTopObjects5ObjectsGDgdjs_46Scene2Code_46GDWallEmptyObjects5ObjectsGDgdjs_46Scene2Code_46GDWallEmpty2Objects5ObjectsGDgdjs_46Scene2Code_46GDWallSideObjects5ObjectsGDgdjs_46Scene2Code_46GDWallSlopeObjects5ObjectsGDgdjs_46Scene2Code_46GDWallTopObjects5ObjectsGDgdjs_46Scene2Code_46GDWaterObjects5ObjectsGDgdjs_46Scene2Code_46GDWaterSolidObjects5ObjectsGDgdjs_46Scene2Code_46GDBridgeObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzBottomObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzCornerBottomObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzEmptyObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzInnerCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzSideObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzSlope1Objects5ObjectsGDgdjs_46Scene2Code_46GDFrzSlope2Objects5ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom1Objects5ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom2Objects5ObjectsGDgdjs_46Scene2Code_46GDFrzTopObjects5Objects = Hashtable.newFrom({"GrassBottomInnerCorner": gdjs.Scene2Code.GDGrassBottomInnerCornerObjects5, "GrassEmpty": gdjs.Scene2Code.GDGrassEmptyObjects5, "GrassEmpty2": gdjs.Scene2Code.GDGrassEmpty2Objects5, "GrassPlatform": gdjs.Scene2Code.GDGrassPlatformObjects5, "GrassPlatformCorner": gdjs.Scene2Code.GDGrassPlatformCornerObjects5, "GrassSide": gdjs.Scene2Code.GDGrassSideObjects5, "GrassSinglePlatform": gdjs.Scene2Code.GDGrassSinglePlatformObjects5, "GrassSlope1": gdjs.Scene2Code.GDGrassSlope1Objects5, "GrassSlope2": gdjs.Scene2Code.GDGrassSlope2Objects5, "GrassTop": gdjs.Scene2Code.GDGrassTopObjects5, "GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects5, "SoilCaveTransition": gdjs.Scene2Code.GDSoilCaveTransitionObjects5, "SoilCorner": gdjs.Scene2Code.GDSoilCornerObjects5, "SoilInnerCorner": gdjs.Scene2Code.GDSoilInnerCornerObjects5, "SoilPlatform": gdjs.Scene2Code.GDSoilPlatformObjects5, "SoilPlatformCorner": gdjs.Scene2Code.GDSoilPlatformCornerObjects5, "SoilSinglePlatform": gdjs.Scene2Code.GDSoilSinglePlatformObjects5, "SoilSlope1": gdjs.Scene2Code.GDSoilSlope1Objects5, "SoilSlope2": gdjs.Scene2Code.GDSoilSlope2Objects5, "SoilTop": gdjs.Scene2Code.GDSoilTopObjects5, "SoilUnderwaterSide": gdjs.Scene2Code.GDSoilUnderwaterSideObjects5, "SoilUnderwaterTop": gdjs.Scene2Code.GDSoilUnderwaterTopObjects5, "WallEmpty": gdjs.Scene2Code.GDWallEmptyObjects5, "WallEmpty2": gdjs.Scene2Code.GDWallEmpty2Objects5, "WallSide": gdjs.Scene2Code.GDWallSideObjects5, "WallSlope": gdjs.Scene2Code.GDWallSlopeObjects5, "WallTop": gdjs.Scene2Code.GDWallTopObjects5, "Water": gdjs.Scene2Code.GDWaterObjects5, "WaterSolid": gdjs.Scene2Code.GDWaterSolidObjects5, "Bridge": gdjs.Scene2Code.GDBridgeObjects5, "FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects5, "CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects5, "FrzBottom": gdjs.Scene2Code.GDFrzBottomObjects5, "FrzCornerBottom": gdjs.Scene2Code.GDFrzCornerBottomObjects5, "FrzEmpty": gdjs.Scene2Code.GDFrzEmptyObjects5, "FrzInnerCorner": gdjs.Scene2Code.GDFrzInnerCornerObjects5, "FrzSide": gdjs.Scene2Code.GDFrzSideObjects5, "FrzSlope1": gdjs.Scene2Code.GDFrzSlope1Objects5, "FrzSlope2": gdjs.Scene2Code.GDFrzSlope2Objects5, "FrzSlopeBottom1": gdjs.Scene2Code.GDFrzSlopeBottom1Objects5, "FrzSlopeBottom2": gdjs.Scene2Code.GDFrzSlopeBottom2Objects5, "FrzTop": gdjs.Scene2Code.GDFrzTopObjects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects5Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects5Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects5});gdjs.Scene2Code.eventsList0xcc0ca8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd28690
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects5Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassBottomInnerCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassEmptyObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassEmpty2Objects5ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassSideObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassSinglePlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassSlope1Objects5ObjectsGDgdjs_46Scene2Code_46GDGrassSlope2Objects5ObjectsGDgdjs_46Scene2Code_46GDGrassTopObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassTopCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilCaveTransitionObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilInnerCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilSinglePlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilSlope1Objects5ObjectsGDgdjs_46Scene2Code_46GDSoilSlope2Objects5ObjectsGDgdjs_46Scene2Code_46GDSoilTopObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterSideObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterTopObjects5ObjectsGDgdjs_46Scene2Code_46GDWallEmptyObjects5ObjectsGDgdjs_46Scene2Code_46GDWallEmpty2Objects5ObjectsGDgdjs_46Scene2Code_46GDWallSideObjects5ObjectsGDgdjs_46Scene2Code_46GDWallSlopeObjects5ObjectsGDgdjs_46Scene2Code_46GDWallTopObjects5ObjectsGDgdjs_46Scene2Code_46GDWaterObjects5ObjectsGDgdjs_46Scene2Code_46GDWaterSolidObjects5ObjectsGDgdjs_46Scene2Code_46GDBridgeObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzBottomObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzCornerBottomObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzEmptyObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzInnerCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzSideObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzSlope1Objects5ObjectsGDgdjs_46Scene2Code_46GDFrzSlope2Objects5ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom1Objects5ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom2Objects5ObjectsGDgdjs_46Scene2Code_46GDFrzTopObjects5Objects = Hashtable.newFrom({"GrassBottomInnerCorner": gdjs.Scene2Code.GDGrassBottomInnerCornerObjects5, "GrassEmpty": gdjs.Scene2Code.GDGrassEmptyObjects5, "GrassEmpty2": gdjs.Scene2Code.GDGrassEmpty2Objects5, "GrassPlatform": gdjs.Scene2Code.GDGrassPlatformObjects5, "GrassPlatformCorner": gdjs.Scene2Code.GDGrassPlatformCornerObjects5, "GrassSide": gdjs.Scene2Code.GDGrassSideObjects5, "GrassSinglePlatform": gdjs.Scene2Code.GDGrassSinglePlatformObjects5, "GrassSlope1": gdjs.Scene2Code.GDGrassSlope1Objects5, "GrassSlope2": gdjs.Scene2Code.GDGrassSlope2Objects5, "GrassTop": gdjs.Scene2Code.GDGrassTopObjects5, "GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects5, "SoilCaveTransition": gdjs.Scene2Code.GDSoilCaveTransitionObjects5, "SoilCorner": gdjs.Scene2Code.GDSoilCornerObjects5, "SoilInnerCorner": gdjs.Scene2Code.GDSoilInnerCornerObjects5, "SoilPlatform": gdjs.Scene2Code.GDSoilPlatformObjects5, "SoilPlatformCorner": gdjs.Scene2Code.GDSoilPlatformCornerObjects5, "SoilSinglePlatform": gdjs.Scene2Code.GDSoilSinglePlatformObjects5, "SoilSlope1": gdjs.Scene2Code.GDSoilSlope1Objects5, "SoilSlope2": gdjs.Scene2Code.GDSoilSlope2Objects5, "SoilTop": gdjs.Scene2Code.GDSoilTopObjects5, "SoilUnderwaterSide": gdjs.Scene2Code.GDSoilUnderwaterSideObjects5, "SoilUnderwaterTop": gdjs.Scene2Code.GDSoilUnderwaterTopObjects5, "WallEmpty": gdjs.Scene2Code.GDWallEmptyObjects5, "WallEmpty2": gdjs.Scene2Code.GDWallEmpty2Objects5, "WallSide": gdjs.Scene2Code.GDWallSideObjects5, "WallSlope": gdjs.Scene2Code.GDWallSlopeObjects5, "WallTop": gdjs.Scene2Code.GDWallTopObjects5, "Water": gdjs.Scene2Code.GDWaterObjects5, "WaterSolid": gdjs.Scene2Code.GDWaterSolidObjects5, "Bridge": gdjs.Scene2Code.GDBridgeObjects5, "FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects5, "CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects5, "FrzBottom": gdjs.Scene2Code.GDFrzBottomObjects5, "FrzCornerBottom": gdjs.Scene2Code.GDFrzCornerBottomObjects5, "FrzEmpty": gdjs.Scene2Code.GDFrzEmptyObjects5, "FrzInnerCorner": gdjs.Scene2Code.GDFrzInnerCornerObjects5, "FrzSide": gdjs.Scene2Code.GDFrzSideObjects5, "FrzSlope1": gdjs.Scene2Code.GDFrzSlope1Objects5, "FrzSlope2": gdjs.Scene2Code.GDFrzSlope2Objects5, "FrzSlopeBottom1": gdjs.Scene2Code.GDFrzSlopeBottom1Objects5, "FrzSlopeBottom2": gdjs.Scene2Code.GDFrzSlopeBottom2Objects5, "FrzTop": gdjs.Scene2Code.GDFrzTopObjects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassBottomInnerCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassEmptyObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassEmpty2Objects5ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassSideObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassSinglePlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassSlope1Objects5ObjectsGDgdjs_46Scene2Code_46GDGrassSlope2Objects5ObjectsGDgdjs_46Scene2Code_46GDGrassTopObjects5ObjectsGDgdjs_46Scene2Code_46GDGrassTopCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilCaveTransitionObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilInnerCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilSinglePlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilSlope1Objects5ObjectsGDgdjs_46Scene2Code_46GDSoilSlope2Objects5ObjectsGDgdjs_46Scene2Code_46GDSoilTopObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterSideObjects5ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterTopObjects5ObjectsGDgdjs_46Scene2Code_46GDWallEmptyObjects5ObjectsGDgdjs_46Scene2Code_46GDWallEmpty2Objects5ObjectsGDgdjs_46Scene2Code_46GDWallSideObjects5ObjectsGDgdjs_46Scene2Code_46GDWallSlopeObjects5ObjectsGDgdjs_46Scene2Code_46GDWallTopObjects5ObjectsGDgdjs_46Scene2Code_46GDWaterObjects5ObjectsGDgdjs_46Scene2Code_46GDWaterSolidObjects5ObjectsGDgdjs_46Scene2Code_46GDBridgeObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzBottomObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzCornerBottomObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzEmptyObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzInnerCornerObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzSideObjects5ObjectsGDgdjs_46Scene2Code_46GDFrzSlope1Objects5ObjectsGDgdjs_46Scene2Code_46GDFrzSlope2Objects5ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom1Objects5ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom2Objects5ObjectsGDgdjs_46Scene2Code_46GDFrzTopObjects5Objects = Hashtable.newFrom({"GrassBottomInnerCorner": gdjs.Scene2Code.GDGrassBottomInnerCornerObjects5, "GrassEmpty": gdjs.Scene2Code.GDGrassEmptyObjects5, "GrassEmpty2": gdjs.Scene2Code.GDGrassEmpty2Objects5, "GrassPlatform": gdjs.Scene2Code.GDGrassPlatformObjects5, "GrassPlatformCorner": gdjs.Scene2Code.GDGrassPlatformCornerObjects5, "GrassSide": gdjs.Scene2Code.GDGrassSideObjects5, "GrassSinglePlatform": gdjs.Scene2Code.GDGrassSinglePlatformObjects5, "GrassSlope1": gdjs.Scene2Code.GDGrassSlope1Objects5, "GrassSlope2": gdjs.Scene2Code.GDGrassSlope2Objects5, "GrassTop": gdjs.Scene2Code.GDGrassTopObjects5, "GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects5, "SoilCaveTransition": gdjs.Scene2Code.GDSoilCaveTransitionObjects5, "SoilCorner": gdjs.Scene2Code.GDSoilCornerObjects5, "SoilInnerCorner": gdjs.Scene2Code.GDSoilInnerCornerObjects5, "SoilPlatform": gdjs.Scene2Code.GDSoilPlatformObjects5, "SoilPlatformCorner": gdjs.Scene2Code.GDSoilPlatformCornerObjects5, "SoilSinglePlatform": gdjs.Scene2Code.GDSoilSinglePlatformObjects5, "SoilSlope1": gdjs.Scene2Code.GDSoilSlope1Objects5, "SoilSlope2": gdjs.Scene2Code.GDSoilSlope2Objects5, "SoilTop": gdjs.Scene2Code.GDSoilTopObjects5, "SoilUnderwaterSide": gdjs.Scene2Code.GDSoilUnderwaterSideObjects5, "SoilUnderwaterTop": gdjs.Scene2Code.GDSoilUnderwaterTopObjects5, "WallEmpty": gdjs.Scene2Code.GDWallEmptyObjects5, "WallEmpty2": gdjs.Scene2Code.GDWallEmpty2Objects5, "WallSide": gdjs.Scene2Code.GDWallSideObjects5, "WallSlope": gdjs.Scene2Code.GDWallSlopeObjects5, "WallTop": gdjs.Scene2Code.GDWallTopObjects5, "Water": gdjs.Scene2Code.GDWaterObjects5, "WaterSolid": gdjs.Scene2Code.GDWaterSolidObjects5, "Bridge": gdjs.Scene2Code.GDBridgeObjects5, "FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects5, "CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects5, "FrzBottom": gdjs.Scene2Code.GDFrzBottomObjects5, "FrzCornerBottom": gdjs.Scene2Code.GDFrzCornerBottomObjects5, "FrzEmpty": gdjs.Scene2Code.GDFrzEmptyObjects5, "FrzInnerCorner": gdjs.Scene2Code.GDFrzInnerCornerObjects5, "FrzSide": gdjs.Scene2Code.GDFrzSideObjects5, "FrzSlope1": gdjs.Scene2Code.GDFrzSlope1Objects5, "FrzSlope2": gdjs.Scene2Code.GDFrzSlope2Objects5, "FrzSlopeBottom1": gdjs.Scene2Code.GDFrzSlopeBottom1Objects5, "FrzSlopeBottom2": gdjs.Scene2Code.GDFrzSlopeBottom2Objects5, "FrzTop": gdjs.Scene2Code.GDFrzTopObjects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects5Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects5Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects5});gdjs.Scene2Code.eventsList0xd29938 = function(runtimeScene) {
 
 {
 
@@ -5474,8 +5474,8 @@ if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcc0ca8
-gdjs.Scene2Code.eventsList0xcc1b70 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd29938
+gdjs.Scene2Code.eventsList0xd2a800 = function(runtimeScene) {
 
 {
 
@@ -5546,8 +5546,8 @@ if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcc1b70
-gdjs.Scene2Code.eventsList0xcbf6f8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd2a800
+gdjs.Scene2Code.eventsList0xd28388 = function(runtimeScene) {
 
 {
 
@@ -5591,7 +5591,7 @@ if (gdjs.Scene2Code.condition2IsTrue_0.val) {
 }
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xcbfa00(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd28690(runtimeScene);} //End of subevents
 }
 
 }
@@ -5781,7 +5781,7 @@ gdjs.Scene2Code.GDEnemy3Objects5.length = k;}}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcc0ca8(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd29938(runtimeScene);} //End of subevents
 }
 
 }
@@ -5845,14 +5845,14 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy3Objects4.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy3Objects4.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcc1b70(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd2a800(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcbf6f8
-gdjs.Scene2Code.eventsList0xcc26a8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd28388
+gdjs.Scene2Code.eventsList0xd2b338 = function(runtimeScene) {
 
 {
 
@@ -5926,8 +5926,8 @@ gdjs.Scene2Code.GDEnemy3Objects4.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcc26a8
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects4Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDArrowObjects3Objects = Hashtable.newFrom({"Arrow": gdjs.Scene2Code.GDArrowObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects3Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects3});gdjs.Scene2Code.eventsList0xcbce38 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd2b338
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects4Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDArrowObjects3Objects = Hashtable.newFrom({"Arrow": gdjs.Scene2Code.GDArrowObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects3Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects3});gdjs.Scene2Code.eventsList0xd25ac8 = function(runtimeScene) {
 
 {
 
@@ -6065,7 +6065,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy3Objects4.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy3Objects4.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcbdbf8(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd26888(runtimeScene);} //End of subevents
 }
 
 }
@@ -6088,7 +6088,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy3Objects4.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy3Objects4.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcbe880(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd27510(runtimeScene);} //End of subevents
 }
 
 }
@@ -6180,7 +6180,7 @@ gdjs.Scene2Code.GDEnemy3Objects4.length = k;}}
 if (gdjs.Scene2Code.condition3IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcbf6f8(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd28388(runtimeScene);} //End of subevents
 }
 
 }
@@ -6251,7 +6251,7 @@ gdjs.Scene2Code.GDEnemy3Objects4.length = k;}}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcc26a8(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd2b338(runtimeScene);} //End of subevents
 }
 
 }
@@ -6515,7 +6515,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects4.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects4.length = k;}if ( gdjs.Scene2Code.condition2IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition3IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13387740);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13816940);
 }
 }}
 }
@@ -6583,7 +6583,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects4.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects4.length = k;}if ( gdjs.Scene2Code.condition2IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition3IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13389660);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13818860);
 }
 }}
 }
@@ -6706,7 +6706,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects4.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects4.length = k;}if ( gdjs.Scene2Code.condition2IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition3IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13392244);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13821444);
 }
 }}
 }
@@ -6826,7 +6826,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects4.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects4.length = k;}if ( gdjs.Scene2Code.condition2IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition3IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13394652);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13823852);
 }
 }}
 }
@@ -6874,7 +6874,7 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionT
 }if ( gdjs.Scene2Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition1IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13396476);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13825676);
 }
 }}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
@@ -6905,8 +6905,8 @@ gdjs.Scene2Code.GDPlayerObjects3.createFrom(runtimeScene.getObjects("Player"));
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcbce38
-gdjs.Scene2Code.eventsList0xcc7618 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd25ac8
+gdjs.Scene2Code.eventsList0xd302a8 = function(runtimeScene) {
 
 {
 
@@ -6980,8 +6980,8 @@ gdjs.Scene2Code.GDEnemy3Objects3.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcc7618
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects3Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDOutOfBoundsObjects3Objects = Hashtable.newFrom({"OutOfBounds": gdjs.Scene2Code.GDOutOfBoundsObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects2});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects2Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects2});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects2Objects = Hashtable.newFrom({"CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects2});gdjs.Scene2Code.eventsList0xcc8228 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd302a8
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects3Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDOutOfBoundsObjects3Objects = Hashtable.newFrom({"OutOfBounds": gdjs.Scene2Code.GDOutOfBoundsObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects2});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy3Objects2Objects = Hashtable.newFrom({"Enemy3": gdjs.Scene2Code.GDEnemy3Objects2});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects2Objects = Hashtable.newFrom({"CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects2});gdjs.Scene2Code.eventsList0xd30eb8 = function(runtimeScene) {
 
 {
 
@@ -6997,7 +6997,7 @@ gdjs.Scene2Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.Scene2Code.condition1IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition2IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13405268);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13834468);
 }
 }}
 }
@@ -7025,7 +7025,7 @@ gdjs.Scene2Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.Scene2Code.condition1IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition2IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13406148);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13835348);
 }
 }}
 }
@@ -7049,7 +7049,7 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.Scene2Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition1IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13406876);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13836076);
 }
 }}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
@@ -7060,8 +7060,8 @@ if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcc8228
-gdjs.Scene2Code.eventsList0xcbae40 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd30eb8
+gdjs.Scene2Code.eventsList0xd23ad0 = function(runtimeScene) {
 
 {
 
@@ -7079,7 +7079,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy3Objects3.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy3Objects3.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcbafa0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd23c30(runtimeScene);} //End of subevents
 }
 
 }
@@ -7108,7 +7108,7 @@ gdjs.Scene2Code.GDPlayerObjects3.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xcbc0a0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd24d30(runtimeScene);} //End of subevents
 }
 
 }
@@ -7130,7 +7130,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy3Objects3.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy3Objects3.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcbce38(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd25ac8(runtimeScene);} //End of subevents
 }
 
 }
@@ -7212,7 +7212,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy3Objects3.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy3Objects3.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcc7618(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd302a8(runtimeScene);} //End of subevents
 }
 
 }
@@ -7306,14 +7306,14 @@ gdjs.Scene2Code.GDCaveSinglePlatformObjects2.length = 0;
 }
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xcc8228(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd30eb8(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcbae40
-gdjs.Scene2Code.eventsList0xcbad68 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd23ad0
+gdjs.Scene2Code.eventsList0xd239f8 = function(runtimeScene) {
 
 {
 
@@ -7324,14 +7324,14 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerPaused(
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcbae40(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd23ad0(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcbad68
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects4Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects4Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects4Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDFrzTopBreakObjects4Objects = Hashtable.newFrom({"FrzTopBreak": gdjs.Scene2Code.GDFrzTopBreakObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDFrzCornerBreakObjects4Objects = Hashtable.newFrom({"FrzCornerBreak": gdjs.Scene2Code.GDFrzCornerBreakObjects4});gdjs.Scene2Code.eventsList0xccafd8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd239f8
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects4Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects4Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects4Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDFrzTopBreakObjects4Objects = Hashtable.newFrom({"FrzTopBreak": gdjs.Scene2Code.GDFrzTopBreakObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDFrzCornerBreakObjects4Objects = Hashtable.newFrom({"FrzCornerBreak": gdjs.Scene2Code.GDFrzCornerBreakObjects4});gdjs.Scene2Code.eventsList0xd33c68 = function(runtimeScene) {
 
 {
 
@@ -7428,8 +7428,8 @@ gdjs.Scene2Code.GDPlayerObjects4.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xccafd8
-gdjs.Scene2Code.eventsList0xcc9f28 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd33c68
+gdjs.Scene2Code.eventsList0xd32bb8 = function(runtimeScene) {
 
 {
 
@@ -7450,7 +7450,7 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCount
 }if ( gdjs.Scene2Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition1IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13410812);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13840012);
 }
 }}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
@@ -7570,7 +7570,7 @@ gdjs.Scene2Code.GDEnemy4Objects4.length = k;}if (gdjs.Scene2Code.condition0IsTru
 {runtimeScene.getVariables().getFromIndex(0).setNumber(1);
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xccafd8(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd33c68(runtimeScene);} //End of subevents
 }
 
 }
@@ -7607,8 +7607,8 @@ gdjs.Scene2Code.GDPlayerObjects3.createFrom(runtimeScene.getObjects("Player"));
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcc9f28
-gdjs.Scene2Code.eventsList0xcc97c8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd32bb8
+gdjs.Scene2Code.eventsList0xd32458 = function(runtimeScene) {
 
 {
 
@@ -7679,14 +7679,14 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy4Objects3.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy4Objects3.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcc9f28(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd32bb8(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcc97c8
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects5Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemyBoundaryObjects5Objects = Hashtable.newFrom({"EnemyBoundary": gdjs.Scene2Code.GDEnemyBoundaryObjects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemyBoundaryObjects5Objects = Hashtable.newFrom({"EnemyBoundary": gdjs.Scene2Code.GDEnemyBoundaryObjects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects4Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects4Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects4});gdjs.Scene2Code.eventsList0xccc570 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd32458
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects5Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemyBoundaryObjects5Objects = Hashtable.newFrom({"EnemyBoundary": gdjs.Scene2Code.GDEnemyBoundaryObjects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemyBoundaryObjects5Objects = Hashtable.newFrom({"EnemyBoundary": gdjs.Scene2Code.GDEnemyBoundaryObjects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects4Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects4Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects4});gdjs.Scene2Code.eventsList0xd35200 = function(runtimeScene) {
 
 {
 
@@ -7727,8 +7727,8 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xccc570
-gdjs.Scene2Code.eventsList0xccc008 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd35200
+gdjs.Scene2Code.eventsList0xd34c98 = function(runtimeScene) {
 
 {
 
@@ -7772,14 +7772,14 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionT
 {runtimeScene.getVariables().getFromIndex(2).setNumber(4);
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xccc570(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd35200(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xccc008
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects5Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects5Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassTopCornerObjects4Objects = Hashtable.newFrom({"GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects4});gdjs.Scene2Code.eventsList0xccd108 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd34c98
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects5Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects5Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassTopCornerObjects4Objects = Hashtable.newFrom({"GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects4});gdjs.Scene2Code.eventsList0xd35d98 = function(runtimeScene) {
 
 {
 
@@ -7877,8 +7877,8 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionT
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xccd108
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects6Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects6});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDFrzCornerObjects6Objects = Hashtable.newFrom({"FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects6});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects6Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects6});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects6Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects6});gdjs.Scene2Code.eventsList0xccebb8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd35d98
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects6Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects6});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDFrzCornerObjects6Objects = Hashtable.newFrom({"FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects6});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects6Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects6});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects6Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects6});gdjs.Scene2Code.eventsList0xd37848 = function(runtimeScene) {
 
 {
 
@@ -7989,8 +7989,8 @@ if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xccebb8
-gdjs.Scene2Code.eventsList0xccf840 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd37848
+gdjs.Scene2Code.eventsList0xd384d0 = function(runtimeScene) {
 
 {
 
@@ -8080,8 +8080,8 @@ gdjs.Scene2Code.GDEnemy4Objects5.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xccf840
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects6Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects6});gdjs.Scene2Code.eventsList0xcd09c0 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd384d0
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects6Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects6});gdjs.Scene2Code.eventsList0xd39650 = function(runtimeScene) {
 
 {
 
@@ -8133,8 +8133,8 @@ gdjs.Scene2Code.GDPlayerObjects6.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcd09c0
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects6Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects6});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassBottomInnerCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassEmptyObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassEmpty2Objects6ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassSideObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassSinglePlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassSlope1Objects6ObjectsGDgdjs_46Scene2Code_46GDGrassSlope2Objects6ObjectsGDgdjs_46Scene2Code_46GDGrassTopObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassTopCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilCaveTransitionObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilInnerCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilSinglePlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilSlope1Objects6ObjectsGDgdjs_46Scene2Code_46GDSoilSlope2Objects6ObjectsGDgdjs_46Scene2Code_46GDSoilTopObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterSideObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterTopObjects6ObjectsGDgdjs_46Scene2Code_46GDWallEmptyObjects6ObjectsGDgdjs_46Scene2Code_46GDWallEmpty2Objects6ObjectsGDgdjs_46Scene2Code_46GDWallSideObjects6ObjectsGDgdjs_46Scene2Code_46GDWallSlopeObjects6ObjectsGDgdjs_46Scene2Code_46GDWallTopObjects6ObjectsGDgdjs_46Scene2Code_46GDWaterObjects6ObjectsGDgdjs_46Scene2Code_46GDWaterSolidObjects6ObjectsGDgdjs_46Scene2Code_46GDBridgeObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzBottomObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzCornerBottomObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzEmptyObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzInnerCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzSideObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzSlope1Objects6ObjectsGDgdjs_46Scene2Code_46GDFrzSlope2Objects6ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom1Objects6ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom2Objects6ObjectsGDgdjs_46Scene2Code_46GDFrzTopObjects6Objects = Hashtable.newFrom({"GrassBottomInnerCorner": gdjs.Scene2Code.GDGrassBottomInnerCornerObjects6, "GrassEmpty": gdjs.Scene2Code.GDGrassEmptyObjects6, "GrassEmpty2": gdjs.Scene2Code.GDGrassEmpty2Objects6, "GrassPlatform": gdjs.Scene2Code.GDGrassPlatformObjects6, "GrassPlatformCorner": gdjs.Scene2Code.GDGrassPlatformCornerObjects6, "GrassSide": gdjs.Scene2Code.GDGrassSideObjects6, "GrassSinglePlatform": gdjs.Scene2Code.GDGrassSinglePlatformObjects6, "GrassSlope1": gdjs.Scene2Code.GDGrassSlope1Objects6, "GrassSlope2": gdjs.Scene2Code.GDGrassSlope2Objects6, "GrassTop": gdjs.Scene2Code.GDGrassTopObjects6, "GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects6, "SoilCaveTransition": gdjs.Scene2Code.GDSoilCaveTransitionObjects6, "SoilCorner": gdjs.Scene2Code.GDSoilCornerObjects6, "SoilInnerCorner": gdjs.Scene2Code.GDSoilInnerCornerObjects6, "SoilPlatform": gdjs.Scene2Code.GDSoilPlatformObjects6, "SoilPlatformCorner": gdjs.Scene2Code.GDSoilPlatformCornerObjects6, "SoilSinglePlatform": gdjs.Scene2Code.GDSoilSinglePlatformObjects6, "SoilSlope1": gdjs.Scene2Code.GDSoilSlope1Objects6, "SoilSlope2": gdjs.Scene2Code.GDSoilSlope2Objects6, "SoilTop": gdjs.Scene2Code.GDSoilTopObjects6, "SoilUnderwaterSide": gdjs.Scene2Code.GDSoilUnderwaterSideObjects6, "SoilUnderwaterTop": gdjs.Scene2Code.GDSoilUnderwaterTopObjects6, "WallEmpty": gdjs.Scene2Code.GDWallEmptyObjects6, "WallEmpty2": gdjs.Scene2Code.GDWallEmpty2Objects6, "WallSide": gdjs.Scene2Code.GDWallSideObjects6, "WallSlope": gdjs.Scene2Code.GDWallSlopeObjects6, "WallTop": gdjs.Scene2Code.GDWallTopObjects6, "Water": gdjs.Scene2Code.GDWaterObjects6, "WaterSolid": gdjs.Scene2Code.GDWaterSolidObjects6, "Bridge": gdjs.Scene2Code.GDBridgeObjects6, "FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects6, "CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects6, "FrzBottom": gdjs.Scene2Code.GDFrzBottomObjects6, "FrzCornerBottom": gdjs.Scene2Code.GDFrzCornerBottomObjects6, "FrzEmpty": gdjs.Scene2Code.GDFrzEmptyObjects6, "FrzInnerCorner": gdjs.Scene2Code.GDFrzInnerCornerObjects6, "FrzSide": gdjs.Scene2Code.GDFrzSideObjects6, "FrzSlope1": gdjs.Scene2Code.GDFrzSlope1Objects6, "FrzSlope2": gdjs.Scene2Code.GDFrzSlope2Objects6, "FrzSlopeBottom1": gdjs.Scene2Code.GDFrzSlopeBottom1Objects6, "FrzSlopeBottom2": gdjs.Scene2Code.GDFrzSlopeBottom2Objects6, "FrzTop": gdjs.Scene2Code.GDFrzTopObjects6});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassBottomInnerCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassEmptyObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassEmpty2Objects6ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassSideObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassSinglePlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassSlope1Objects6ObjectsGDgdjs_46Scene2Code_46GDGrassSlope2Objects6ObjectsGDgdjs_46Scene2Code_46GDGrassTopObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassTopCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilCaveTransitionObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilInnerCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilSinglePlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilSlope1Objects6ObjectsGDgdjs_46Scene2Code_46GDSoilSlope2Objects6ObjectsGDgdjs_46Scene2Code_46GDSoilTopObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterSideObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterTopObjects6ObjectsGDgdjs_46Scene2Code_46GDWallEmptyObjects6ObjectsGDgdjs_46Scene2Code_46GDWallEmpty2Objects6ObjectsGDgdjs_46Scene2Code_46GDWallSideObjects6ObjectsGDgdjs_46Scene2Code_46GDWallSlopeObjects6ObjectsGDgdjs_46Scene2Code_46GDWallTopObjects6ObjectsGDgdjs_46Scene2Code_46GDWaterObjects6ObjectsGDgdjs_46Scene2Code_46GDWaterSolidObjects6ObjectsGDgdjs_46Scene2Code_46GDBridgeObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzBottomObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzCornerBottomObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzEmptyObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzInnerCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzSideObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzSlope1Objects6ObjectsGDgdjs_46Scene2Code_46GDFrzSlope2Objects6ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom1Objects6ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom2Objects6ObjectsGDgdjs_46Scene2Code_46GDFrzTopObjects6Objects = Hashtable.newFrom({"GrassBottomInnerCorner": gdjs.Scene2Code.GDGrassBottomInnerCornerObjects6, "GrassEmpty": gdjs.Scene2Code.GDGrassEmptyObjects6, "GrassEmpty2": gdjs.Scene2Code.GDGrassEmpty2Objects6, "GrassPlatform": gdjs.Scene2Code.GDGrassPlatformObjects6, "GrassPlatformCorner": gdjs.Scene2Code.GDGrassPlatformCornerObjects6, "GrassSide": gdjs.Scene2Code.GDGrassSideObjects6, "GrassSinglePlatform": gdjs.Scene2Code.GDGrassSinglePlatformObjects6, "GrassSlope1": gdjs.Scene2Code.GDGrassSlope1Objects6, "GrassSlope2": gdjs.Scene2Code.GDGrassSlope2Objects6, "GrassTop": gdjs.Scene2Code.GDGrassTopObjects6, "GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects6, "SoilCaveTransition": gdjs.Scene2Code.GDSoilCaveTransitionObjects6, "SoilCorner": gdjs.Scene2Code.GDSoilCornerObjects6, "SoilInnerCorner": gdjs.Scene2Code.GDSoilInnerCornerObjects6, "SoilPlatform": gdjs.Scene2Code.GDSoilPlatformObjects6, "SoilPlatformCorner": gdjs.Scene2Code.GDSoilPlatformCornerObjects6, "SoilSinglePlatform": gdjs.Scene2Code.GDSoilSinglePlatformObjects6, "SoilSlope1": gdjs.Scene2Code.GDSoilSlope1Objects6, "SoilSlope2": gdjs.Scene2Code.GDSoilSlope2Objects6, "SoilTop": gdjs.Scene2Code.GDSoilTopObjects6, "SoilUnderwaterSide": gdjs.Scene2Code.GDSoilUnderwaterSideObjects6, "SoilUnderwaterTop": gdjs.Scene2Code.GDSoilUnderwaterTopObjects6, "WallEmpty": gdjs.Scene2Code.GDWallEmptyObjects6, "WallEmpty2": gdjs.Scene2Code.GDWallEmpty2Objects6, "WallSide": gdjs.Scene2Code.GDWallSideObjects6, "WallSlope": gdjs.Scene2Code.GDWallSlopeObjects6, "WallTop": gdjs.Scene2Code.GDWallTopObjects6, "Water": gdjs.Scene2Code.GDWaterObjects6, "WaterSolid": gdjs.Scene2Code.GDWaterSolidObjects6, "Bridge": gdjs.Scene2Code.GDBridgeObjects6, "FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects6, "CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects6, "FrzBottom": gdjs.Scene2Code.GDFrzBottomObjects6, "FrzCornerBottom": gdjs.Scene2Code.GDFrzCornerBottomObjects6, "FrzEmpty": gdjs.Scene2Code.GDFrzEmptyObjects6, "FrzInnerCorner": gdjs.Scene2Code.GDFrzInnerCornerObjects6, "FrzSide": gdjs.Scene2Code.GDFrzSideObjects6, "FrzSlope1": gdjs.Scene2Code.GDFrzSlope1Objects6, "FrzSlope2": gdjs.Scene2Code.GDFrzSlope2Objects6, "FrzSlopeBottom1": gdjs.Scene2Code.GDFrzSlopeBottom1Objects6, "FrzSlopeBottom2": gdjs.Scene2Code.GDFrzSlopeBottom2Objects6, "FrzTop": gdjs.Scene2Code.GDFrzTopObjects6});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects6Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects6});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects6Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects6});gdjs.Scene2Code.eventsList0xcd1c68 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd39650
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects6Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects6});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassBottomInnerCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassEmptyObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassEmpty2Objects6ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassSideObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassSinglePlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassSlope1Objects6ObjectsGDgdjs_46Scene2Code_46GDGrassSlope2Objects6ObjectsGDgdjs_46Scene2Code_46GDGrassTopObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassTopCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilCaveTransitionObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilInnerCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilSinglePlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilSlope1Objects6ObjectsGDgdjs_46Scene2Code_46GDSoilSlope2Objects6ObjectsGDgdjs_46Scene2Code_46GDSoilTopObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterSideObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterTopObjects6ObjectsGDgdjs_46Scene2Code_46GDWallEmptyObjects6ObjectsGDgdjs_46Scene2Code_46GDWallEmpty2Objects6ObjectsGDgdjs_46Scene2Code_46GDWallSideObjects6ObjectsGDgdjs_46Scene2Code_46GDWallSlopeObjects6ObjectsGDgdjs_46Scene2Code_46GDWallTopObjects6ObjectsGDgdjs_46Scene2Code_46GDWaterObjects6ObjectsGDgdjs_46Scene2Code_46GDWaterSolidObjects6ObjectsGDgdjs_46Scene2Code_46GDBridgeObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzBottomObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzCornerBottomObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzEmptyObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzInnerCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzSideObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzSlope1Objects6ObjectsGDgdjs_46Scene2Code_46GDFrzSlope2Objects6ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom1Objects6ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom2Objects6ObjectsGDgdjs_46Scene2Code_46GDFrzTopObjects6Objects = Hashtable.newFrom({"GrassBottomInnerCorner": gdjs.Scene2Code.GDGrassBottomInnerCornerObjects6, "GrassEmpty": gdjs.Scene2Code.GDGrassEmptyObjects6, "GrassEmpty2": gdjs.Scene2Code.GDGrassEmpty2Objects6, "GrassPlatform": gdjs.Scene2Code.GDGrassPlatformObjects6, "GrassPlatformCorner": gdjs.Scene2Code.GDGrassPlatformCornerObjects6, "GrassSide": gdjs.Scene2Code.GDGrassSideObjects6, "GrassSinglePlatform": gdjs.Scene2Code.GDGrassSinglePlatformObjects6, "GrassSlope1": gdjs.Scene2Code.GDGrassSlope1Objects6, "GrassSlope2": gdjs.Scene2Code.GDGrassSlope2Objects6, "GrassTop": gdjs.Scene2Code.GDGrassTopObjects6, "GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects6, "SoilCaveTransition": gdjs.Scene2Code.GDSoilCaveTransitionObjects6, "SoilCorner": gdjs.Scene2Code.GDSoilCornerObjects6, "SoilInnerCorner": gdjs.Scene2Code.GDSoilInnerCornerObjects6, "SoilPlatform": gdjs.Scene2Code.GDSoilPlatformObjects6, "SoilPlatformCorner": gdjs.Scene2Code.GDSoilPlatformCornerObjects6, "SoilSinglePlatform": gdjs.Scene2Code.GDSoilSinglePlatformObjects6, "SoilSlope1": gdjs.Scene2Code.GDSoilSlope1Objects6, "SoilSlope2": gdjs.Scene2Code.GDSoilSlope2Objects6, "SoilTop": gdjs.Scene2Code.GDSoilTopObjects6, "SoilUnderwaterSide": gdjs.Scene2Code.GDSoilUnderwaterSideObjects6, "SoilUnderwaterTop": gdjs.Scene2Code.GDSoilUnderwaterTopObjects6, "WallEmpty": gdjs.Scene2Code.GDWallEmptyObjects6, "WallEmpty2": gdjs.Scene2Code.GDWallEmpty2Objects6, "WallSide": gdjs.Scene2Code.GDWallSideObjects6, "WallSlope": gdjs.Scene2Code.GDWallSlopeObjects6, "WallTop": gdjs.Scene2Code.GDWallTopObjects6, "Water": gdjs.Scene2Code.GDWaterObjects6, "WaterSolid": gdjs.Scene2Code.GDWaterSolidObjects6, "Bridge": gdjs.Scene2Code.GDBridgeObjects6, "FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects6, "CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects6, "FrzBottom": gdjs.Scene2Code.GDFrzBottomObjects6, "FrzCornerBottom": gdjs.Scene2Code.GDFrzCornerBottomObjects6, "FrzEmpty": gdjs.Scene2Code.GDFrzEmptyObjects6, "FrzInnerCorner": gdjs.Scene2Code.GDFrzInnerCornerObjects6, "FrzSide": gdjs.Scene2Code.GDFrzSideObjects6, "FrzSlope1": gdjs.Scene2Code.GDFrzSlope1Objects6, "FrzSlope2": gdjs.Scene2Code.GDFrzSlope2Objects6, "FrzSlopeBottom1": gdjs.Scene2Code.GDFrzSlopeBottom1Objects6, "FrzSlopeBottom2": gdjs.Scene2Code.GDFrzSlopeBottom2Objects6, "FrzTop": gdjs.Scene2Code.GDFrzTopObjects6});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassBottomInnerCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassEmptyObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassEmpty2Objects6ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassSideObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassSinglePlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassSlope1Objects6ObjectsGDgdjs_46Scene2Code_46GDGrassSlope2Objects6ObjectsGDgdjs_46Scene2Code_46GDGrassTopObjects6ObjectsGDgdjs_46Scene2Code_46GDGrassTopCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilCaveTransitionObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilInnerCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilSinglePlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilSlope1Objects6ObjectsGDgdjs_46Scene2Code_46GDSoilSlope2Objects6ObjectsGDgdjs_46Scene2Code_46GDSoilTopObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterSideObjects6ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterTopObjects6ObjectsGDgdjs_46Scene2Code_46GDWallEmptyObjects6ObjectsGDgdjs_46Scene2Code_46GDWallEmpty2Objects6ObjectsGDgdjs_46Scene2Code_46GDWallSideObjects6ObjectsGDgdjs_46Scene2Code_46GDWallSlopeObjects6ObjectsGDgdjs_46Scene2Code_46GDWallTopObjects6ObjectsGDgdjs_46Scene2Code_46GDWaterObjects6ObjectsGDgdjs_46Scene2Code_46GDWaterSolidObjects6ObjectsGDgdjs_46Scene2Code_46GDBridgeObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzBottomObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzCornerBottomObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzEmptyObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzInnerCornerObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzSideObjects6ObjectsGDgdjs_46Scene2Code_46GDFrzSlope1Objects6ObjectsGDgdjs_46Scene2Code_46GDFrzSlope2Objects6ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom1Objects6ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom2Objects6ObjectsGDgdjs_46Scene2Code_46GDFrzTopObjects6Objects = Hashtable.newFrom({"GrassBottomInnerCorner": gdjs.Scene2Code.GDGrassBottomInnerCornerObjects6, "GrassEmpty": gdjs.Scene2Code.GDGrassEmptyObjects6, "GrassEmpty2": gdjs.Scene2Code.GDGrassEmpty2Objects6, "GrassPlatform": gdjs.Scene2Code.GDGrassPlatformObjects6, "GrassPlatformCorner": gdjs.Scene2Code.GDGrassPlatformCornerObjects6, "GrassSide": gdjs.Scene2Code.GDGrassSideObjects6, "GrassSinglePlatform": gdjs.Scene2Code.GDGrassSinglePlatformObjects6, "GrassSlope1": gdjs.Scene2Code.GDGrassSlope1Objects6, "GrassSlope2": gdjs.Scene2Code.GDGrassSlope2Objects6, "GrassTop": gdjs.Scene2Code.GDGrassTopObjects6, "GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects6, "SoilCaveTransition": gdjs.Scene2Code.GDSoilCaveTransitionObjects6, "SoilCorner": gdjs.Scene2Code.GDSoilCornerObjects6, "SoilInnerCorner": gdjs.Scene2Code.GDSoilInnerCornerObjects6, "SoilPlatform": gdjs.Scene2Code.GDSoilPlatformObjects6, "SoilPlatformCorner": gdjs.Scene2Code.GDSoilPlatformCornerObjects6, "SoilSinglePlatform": gdjs.Scene2Code.GDSoilSinglePlatformObjects6, "SoilSlope1": gdjs.Scene2Code.GDSoilSlope1Objects6, "SoilSlope2": gdjs.Scene2Code.GDSoilSlope2Objects6, "SoilTop": gdjs.Scene2Code.GDSoilTopObjects6, "SoilUnderwaterSide": gdjs.Scene2Code.GDSoilUnderwaterSideObjects6, "SoilUnderwaterTop": gdjs.Scene2Code.GDSoilUnderwaterTopObjects6, "WallEmpty": gdjs.Scene2Code.GDWallEmptyObjects6, "WallEmpty2": gdjs.Scene2Code.GDWallEmpty2Objects6, "WallSide": gdjs.Scene2Code.GDWallSideObjects6, "WallSlope": gdjs.Scene2Code.GDWallSlopeObjects6, "WallTop": gdjs.Scene2Code.GDWallTopObjects6, "Water": gdjs.Scene2Code.GDWaterObjects6, "WaterSolid": gdjs.Scene2Code.GDWaterSolidObjects6, "Bridge": gdjs.Scene2Code.GDBridgeObjects6, "FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects6, "CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects6, "FrzBottom": gdjs.Scene2Code.GDFrzBottomObjects6, "FrzCornerBottom": gdjs.Scene2Code.GDFrzCornerBottomObjects6, "FrzEmpty": gdjs.Scene2Code.GDFrzEmptyObjects6, "FrzInnerCorner": gdjs.Scene2Code.GDFrzInnerCornerObjects6, "FrzSide": gdjs.Scene2Code.GDFrzSideObjects6, "FrzSlope1": gdjs.Scene2Code.GDFrzSlope1Objects6, "FrzSlope2": gdjs.Scene2Code.GDFrzSlope2Objects6, "FrzSlopeBottom1": gdjs.Scene2Code.GDFrzSlopeBottom1Objects6, "FrzSlopeBottom2": gdjs.Scene2Code.GDFrzSlopeBottom2Objects6, "FrzTop": gdjs.Scene2Code.GDFrzTopObjects6});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects6Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects6});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects6Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects6});gdjs.Scene2Code.eventsList0xd3a8f8 = function(runtimeScene) {
 
 {
 
@@ -8219,8 +8219,8 @@ gdjs.Scene2Code.GDEnemy4Objects6.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcd1c68
-gdjs.Scene2Code.eventsList0xcd2be0 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd3a8f8
+gdjs.Scene2Code.eventsList0xd3b870 = function(runtimeScene) {
 
 {
 
@@ -8291,8 +8291,8 @@ if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcd2be0
-gdjs.Scene2Code.eventsList0xcd06b8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd3b870
+gdjs.Scene2Code.eventsList0xd39348 = function(runtimeScene) {
 
 {
 
@@ -8336,7 +8336,7 @@ if (gdjs.Scene2Code.condition2IsTrue_0.val) {
 }
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xcd09c0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd39650(runtimeScene);} //End of subevents
 }
 
 }
@@ -8526,7 +8526,7 @@ gdjs.Scene2Code.GDEnemy4Objects6.length = k;}}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcd1c68(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd3a8f8(runtimeScene);} //End of subevents
 }
 
 }
@@ -8590,14 +8590,14 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy4Objects5.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy4Objects5.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcd2be0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd3b870(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcd06b8
-gdjs.Scene2Code.eventsList0xcd3718 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd39348
+gdjs.Scene2Code.eventsList0xd3c3a8 = function(runtimeScene) {
 
 {
 
@@ -8671,8 +8671,8 @@ gdjs.Scene2Code.GDEnemy4Objects5.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcd3718
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects5Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDArrowObjects4Objects = Hashtable.newFrom({"Arrow": gdjs.Scene2Code.GDArrowObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects4Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects4});gdjs.Scene2Code.eventsList0xccddf8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd3c3a8
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects5Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDArrowObjects4Objects = Hashtable.newFrom({"Arrow": gdjs.Scene2Code.GDArrowObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects4Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects4});gdjs.Scene2Code.eventsList0xd36a88 = function(runtimeScene) {
 
 {
 
@@ -8810,7 +8810,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy4Objects5.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy4Objects5.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xccebb8(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd37848(runtimeScene);} //End of subevents
 }
 
 }
@@ -8833,7 +8833,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy4Objects5.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy4Objects5.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xccf840(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd384d0(runtimeScene);} //End of subevents
 }
 
 }
@@ -8925,7 +8925,7 @@ gdjs.Scene2Code.GDEnemy4Objects5.length = k;}}
 if (gdjs.Scene2Code.condition3IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcd06b8(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd39348(runtimeScene);} //End of subevents
 }
 
 }
@@ -8996,7 +8996,7 @@ gdjs.Scene2Code.GDEnemy4Objects5.length = k;}}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcd3718(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd3c3a8(runtimeScene);} //End of subevents
 }
 
 }
@@ -9260,7 +9260,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects5.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects5.length = k;}if ( gdjs.Scene2Code.condition2IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition3IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13457484);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13886684);
 }
 }}
 }
@@ -9328,7 +9328,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects5.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects5.length = k;}if ( gdjs.Scene2Code.condition2IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition3IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13459404);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13888604);
 }
 }}
 }
@@ -9451,7 +9451,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects5.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects5.length = k;}if ( gdjs.Scene2Code.condition2IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition3IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13461988);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13891188);
 }
 }}
 }
@@ -9571,7 +9571,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects5.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects5.length = k;}if ( gdjs.Scene2Code.condition2IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition3IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13464396);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13893596);
 }
 }}
 }
@@ -9619,7 +9619,7 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionT
 }if ( gdjs.Scene2Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition1IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13466220);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13895420);
 }
 }}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
@@ -9650,8 +9650,8 @@ gdjs.Scene2Code.GDPlayerObjects4.createFrom(runtimeScene.getObjects("Player"));
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xccddf8
-gdjs.Scene2Code.eventsList0xcd8688 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd36a88
+gdjs.Scene2Code.eventsList0xd41318 = function(runtimeScene) {
 
 {
 
@@ -9725,8 +9725,8 @@ gdjs.Scene2Code.GDEnemy4Objects3.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcd8688
-gdjs.Scene2Code.eventsList0xccbed0 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd41318
+gdjs.Scene2Code.eventsList0xd34b60 = function(runtimeScene) {
 
 {
 
@@ -9745,7 +9745,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy4Objects4.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy4Objects4.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xccc008(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd34c98(runtimeScene);} //End of subevents
 }
 
 }
@@ -9774,7 +9774,7 @@ gdjs.Scene2Code.GDPlayerObjects4.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xccd108(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd35d98(runtimeScene);} //End of subevents
 }
 
 }
@@ -9797,7 +9797,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy4Objects4.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy4Objects4.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xccddf8(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd36a88(runtimeScene);} //End of subevents
 }
 
 }
@@ -9881,14 +9881,14 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy4Objects3.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy4Objects3.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcd8688(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd41318(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xccbed0
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects3Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDOutOfBoundsObjects3Objects = Hashtable.newFrom({"OutOfBounds": gdjs.Scene2Code.GDOutOfBoundsObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects2});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects2Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects2});gdjs.Scene2Code.eventsList0xcd92c0 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd34b60
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects3Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDOutOfBoundsObjects3Objects = Hashtable.newFrom({"OutOfBounds": gdjs.Scene2Code.GDOutOfBoundsObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects2});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects2Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects2});gdjs.Scene2Code.eventsList0xd41f50 = function(runtimeScene) {
 
 {
 
@@ -9900,7 +9900,7 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.Scene2Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition1IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13474052);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13903252);
 }
 }}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
@@ -9915,8 +9915,8 @@ gdjs.Scene2Code.GDDisplayMessageObjects2.createFrom(runtimeScene.getObjects("Dis
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcd92c0
-gdjs.Scene2Code.eventsList0xcc95b0 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd41f50
+gdjs.Scene2Code.eventsList0xd32240 = function(runtimeScene) {
 
 {
 
@@ -9931,7 +9931,7 @@ gdjs.Scene2Code.eventsList0xcc95b0 = function(runtimeScene) {
 {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcc97c8(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd32458(runtimeScene);} //End of subevents
 }
 
 }
@@ -9953,7 +9953,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy4Objects3.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy4Objects3.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xccbed0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd34b60(runtimeScene);} //End of subevents
 }
 
 }
@@ -10035,14 +10035,14 @@ if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 }
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xcd92c0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd41f50(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcc95b0
-gdjs.Scene2Code.eventsList0xcbf580 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd32240
+gdjs.Scene2Code.eventsList0xd28210 = function(runtimeScene) {
 
 {
 
@@ -10053,14 +10053,14 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerPaused(
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcc95b0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd32240(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcbf580
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects3Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDExplosionObjects3Objects = Hashtable.newFrom({"Explosion": gdjs.Scene2Code.GDExplosionObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDInvisibleFloorObjects3Objects = Hashtable.newFrom({"InvisibleFloor": gdjs.Scene2Code.GDInvisibleFloorObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects3Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects3Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects3});gdjs.Scene2Code.eventsList0xcdc5e0 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd28210
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects3Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDExplosionObjects3Objects = Hashtable.newFrom({"Explosion": gdjs.Scene2Code.GDExplosionObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDInvisibleFloorObjects3Objects = Hashtable.newFrom({"InvisibleFloor": gdjs.Scene2Code.GDInvisibleFloorObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects3Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects3Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects3});gdjs.Scene2Code.eventsList0xd45270 = function(runtimeScene) {
 
 {
 
@@ -10085,8 +10085,8 @@ gdjs.Scene2Code.GDPlayerObjects3.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcdc5e0
-gdjs.Scene2Code.eventsList0xcdaf08 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd45270
+gdjs.Scene2Code.eventsList0xd43b98 = function(runtimeScene) {
 
 {
 
@@ -10107,7 +10107,7 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCount
 }if ( gdjs.Scene2Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition1IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13480452);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13909652);
 }
 }}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
@@ -10168,7 +10168,7 @@ gdjs.Scene2Code.conditionTrue_1.val = true && gdjs.Scene2Code.condition0IsTrue_1
 }if ( gdjs.Scene2Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition1IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13482412);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13911612);
 }
 }}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
@@ -10222,7 +10222,7 @@ gdjs.Scene2Code.conditionTrue_1.val = true && gdjs.Scene2Code.condition0IsTrue_1
 }if ( gdjs.Scene2Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition1IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13483588);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13912788);
 }
 }}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
@@ -10258,7 +10258,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy5Objects3.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy5Objects3.length = k;}if ( gdjs.Scene2Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition1IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13484364);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13913564);
 }
 }}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
@@ -10323,7 +10323,7 @@ gdjs.Scene2Code.GDPlayerObjects3.createFrom(runtimeScene.getObjects("Player"));
 }{runtimeScene.getVariables().getFromIndex(0).setNumber(1);
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xcdc5e0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd45270(runtimeScene);} //End of subevents
 }
 
 }
@@ -10395,8 +10395,8 @@ gdjs.Scene2Code.GDPlayerObjects2.createFrom(runtimeScene.getObjects("Player"));
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcdaf08
-gdjs.Scene2Code.eventsList0xcd9f28 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd43b98
+gdjs.Scene2Code.eventsList0xd42bb8 = function(runtimeScene) {
 
 {
 
@@ -10552,14 +10552,14 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy5Objects2.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy5Objects2.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcdaf08(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd43b98(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcd9f28
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects3Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemyBoundaryObjects3Objects = Hashtable.newFrom({"EnemyBoundary": gdjs.Scene2Code.GDEnemyBoundaryObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemyBoundaryObjects3Objects = Hashtable.newFrom({"EnemyBoundary": gdjs.Scene2Code.GDEnemyBoundaryObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects2});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects2Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects2});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects2Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects2});gdjs.Scene2Code.eventsList0xcdd9c8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd42bb8
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects3Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemyBoundaryObjects3Objects = Hashtable.newFrom({"EnemyBoundary": gdjs.Scene2Code.GDEnemyBoundaryObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemyBoundaryObjects3Objects = Hashtable.newFrom({"EnemyBoundary": gdjs.Scene2Code.GDEnemyBoundaryObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects2});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects2Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects2});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects2Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects2});gdjs.Scene2Code.eventsList0xd46658 = function(runtimeScene) {
 
 {
 
@@ -10600,8 +10600,8 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcdd9c8
-gdjs.Scene2Code.eventsList0xcdd460 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd46658
+gdjs.Scene2Code.eventsList0xd460f0 = function(runtimeScene) {
 
 {
 
@@ -10645,14 +10645,14 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionT
 {runtimeScene.getVariables().getFromIndex(2).setNumber(5);
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xcdd9c8(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd46658(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcdd460
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects3Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects3Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects2});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDFrzCornerObjects2Objects = Hashtable.newFrom({"FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects2});gdjs.Scene2Code.eventsList0xcde560 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd460f0
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects3Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects3Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects2});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDFrzCornerObjects2Objects = Hashtable.newFrom({"FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects2});gdjs.Scene2Code.eventsList0xd471f0 = function(runtimeScene) {
 
 {
 
@@ -10750,8 +10750,8 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionT
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcde560
-gdjs.Scene2Code.eventsList0xcdf340 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd471f0
+gdjs.Scene2Code.eventsList0xd47fd0 = function(runtimeScene) {
 
 {
 
@@ -10839,8 +10839,8 @@ if (gdjs.Scene2Code.condition2IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcdf340
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects4Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDFrzCornerObjects4Objects = Hashtable.newFrom({"FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects4Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects4});gdjs.Scene2Code.eventsList0xce08e8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd47fd0
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects4Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDFrzCornerObjects4Objects = Hashtable.newFrom({"FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects4Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects4});gdjs.Scene2Code.eventsList0xd49578 = function(runtimeScene) {
 
 {
 
@@ -10951,8 +10951,8 @@ if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xce08e8
-gdjs.Scene2Code.eventsList0xce1570 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd49578
+gdjs.Scene2Code.eventsList0xd4a200 = function(runtimeScene) {
 
 {
 
@@ -11042,8 +11042,8 @@ gdjs.Scene2Code.GDEnemy5Objects3.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xce1570
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.eventsList0xce26f0 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd4a200
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.eventsList0xd4b380 = function(runtimeScene) {
 
 {
 
@@ -11095,8 +11095,8 @@ gdjs.Scene2Code.GDPlayerObjects4.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xce26f0
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects4Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassBottomInnerCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassEmptyObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassEmpty2Objects4ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassSideObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassSinglePlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassSlope1Objects4ObjectsGDgdjs_46Scene2Code_46GDGrassSlope2Objects4ObjectsGDgdjs_46Scene2Code_46GDGrassTopObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassTopCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilCaveTransitionObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilInnerCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilSinglePlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilSlope1Objects4ObjectsGDgdjs_46Scene2Code_46GDSoilSlope2Objects4ObjectsGDgdjs_46Scene2Code_46GDSoilTopObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterSideObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterTopObjects4ObjectsGDgdjs_46Scene2Code_46GDWallEmptyObjects4ObjectsGDgdjs_46Scene2Code_46GDWallEmpty2Objects4ObjectsGDgdjs_46Scene2Code_46GDWallSideObjects4ObjectsGDgdjs_46Scene2Code_46GDWallSlopeObjects4ObjectsGDgdjs_46Scene2Code_46GDWallTopObjects4ObjectsGDgdjs_46Scene2Code_46GDWaterObjects4ObjectsGDgdjs_46Scene2Code_46GDWaterSolidObjects4ObjectsGDgdjs_46Scene2Code_46GDBridgeObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzBottomObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzCornerBottomObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzEmptyObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzInnerCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzSideObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlope1Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlope2Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom1Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom2Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzTopObjects4Objects = Hashtable.newFrom({"GrassBottomInnerCorner": gdjs.Scene2Code.GDGrassBottomInnerCornerObjects4, "GrassEmpty": gdjs.Scene2Code.GDGrassEmptyObjects4, "GrassEmpty2": gdjs.Scene2Code.GDGrassEmpty2Objects4, "GrassPlatform": gdjs.Scene2Code.GDGrassPlatformObjects4, "GrassPlatformCorner": gdjs.Scene2Code.GDGrassPlatformCornerObjects4, "GrassSide": gdjs.Scene2Code.GDGrassSideObjects4, "GrassSinglePlatform": gdjs.Scene2Code.GDGrassSinglePlatformObjects4, "GrassSlope1": gdjs.Scene2Code.GDGrassSlope1Objects4, "GrassSlope2": gdjs.Scene2Code.GDGrassSlope2Objects4, "GrassTop": gdjs.Scene2Code.GDGrassTopObjects4, "GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects4, "SoilCaveTransition": gdjs.Scene2Code.GDSoilCaveTransitionObjects4, "SoilCorner": gdjs.Scene2Code.GDSoilCornerObjects4, "SoilInnerCorner": gdjs.Scene2Code.GDSoilInnerCornerObjects4, "SoilPlatform": gdjs.Scene2Code.GDSoilPlatformObjects4, "SoilPlatformCorner": gdjs.Scene2Code.GDSoilPlatformCornerObjects4, "SoilSinglePlatform": gdjs.Scene2Code.GDSoilSinglePlatformObjects4, "SoilSlope1": gdjs.Scene2Code.GDSoilSlope1Objects4, "SoilSlope2": gdjs.Scene2Code.GDSoilSlope2Objects4, "SoilTop": gdjs.Scene2Code.GDSoilTopObjects4, "SoilUnderwaterSide": gdjs.Scene2Code.GDSoilUnderwaterSideObjects4, "SoilUnderwaterTop": gdjs.Scene2Code.GDSoilUnderwaterTopObjects4, "WallEmpty": gdjs.Scene2Code.GDWallEmptyObjects4, "WallEmpty2": gdjs.Scene2Code.GDWallEmpty2Objects4, "WallSide": gdjs.Scene2Code.GDWallSideObjects4, "WallSlope": gdjs.Scene2Code.GDWallSlopeObjects4, "WallTop": gdjs.Scene2Code.GDWallTopObjects4, "Water": gdjs.Scene2Code.GDWaterObjects4, "WaterSolid": gdjs.Scene2Code.GDWaterSolidObjects4, "Bridge": gdjs.Scene2Code.GDBridgeObjects4, "FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects4, "CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects4, "FrzBottom": gdjs.Scene2Code.GDFrzBottomObjects4, "FrzCornerBottom": gdjs.Scene2Code.GDFrzCornerBottomObjects4, "FrzEmpty": gdjs.Scene2Code.GDFrzEmptyObjects4, "FrzInnerCorner": gdjs.Scene2Code.GDFrzInnerCornerObjects4, "FrzSide": gdjs.Scene2Code.GDFrzSideObjects4, "FrzSlope1": gdjs.Scene2Code.GDFrzSlope1Objects4, "FrzSlope2": gdjs.Scene2Code.GDFrzSlope2Objects4, "FrzSlopeBottom1": gdjs.Scene2Code.GDFrzSlopeBottom1Objects4, "FrzSlopeBottom2": gdjs.Scene2Code.GDFrzSlopeBottom2Objects4, "FrzTop": gdjs.Scene2Code.GDFrzTopObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassBottomInnerCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassEmptyObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassEmpty2Objects4ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassSideObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassSinglePlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassSlope1Objects4ObjectsGDgdjs_46Scene2Code_46GDGrassSlope2Objects4ObjectsGDgdjs_46Scene2Code_46GDGrassTopObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassTopCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilCaveTransitionObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilInnerCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilSinglePlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilSlope1Objects4ObjectsGDgdjs_46Scene2Code_46GDSoilSlope2Objects4ObjectsGDgdjs_46Scene2Code_46GDSoilTopObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterSideObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterTopObjects4ObjectsGDgdjs_46Scene2Code_46GDWallEmptyObjects4ObjectsGDgdjs_46Scene2Code_46GDWallEmpty2Objects4ObjectsGDgdjs_46Scene2Code_46GDWallSideObjects4ObjectsGDgdjs_46Scene2Code_46GDWallSlopeObjects4ObjectsGDgdjs_46Scene2Code_46GDWallTopObjects4ObjectsGDgdjs_46Scene2Code_46GDWaterObjects4ObjectsGDgdjs_46Scene2Code_46GDWaterSolidObjects4ObjectsGDgdjs_46Scene2Code_46GDBridgeObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzBottomObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzCornerBottomObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzEmptyObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzInnerCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzSideObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlope1Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlope2Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom1Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom2Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzTopObjects4Objects = Hashtable.newFrom({"GrassBottomInnerCorner": gdjs.Scene2Code.GDGrassBottomInnerCornerObjects4, "GrassEmpty": gdjs.Scene2Code.GDGrassEmptyObjects4, "GrassEmpty2": gdjs.Scene2Code.GDGrassEmpty2Objects4, "GrassPlatform": gdjs.Scene2Code.GDGrassPlatformObjects4, "GrassPlatformCorner": gdjs.Scene2Code.GDGrassPlatformCornerObjects4, "GrassSide": gdjs.Scene2Code.GDGrassSideObjects4, "GrassSinglePlatform": gdjs.Scene2Code.GDGrassSinglePlatformObjects4, "GrassSlope1": gdjs.Scene2Code.GDGrassSlope1Objects4, "GrassSlope2": gdjs.Scene2Code.GDGrassSlope2Objects4, "GrassTop": gdjs.Scene2Code.GDGrassTopObjects4, "GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects4, "SoilCaveTransition": gdjs.Scene2Code.GDSoilCaveTransitionObjects4, "SoilCorner": gdjs.Scene2Code.GDSoilCornerObjects4, "SoilInnerCorner": gdjs.Scene2Code.GDSoilInnerCornerObjects4, "SoilPlatform": gdjs.Scene2Code.GDSoilPlatformObjects4, "SoilPlatformCorner": gdjs.Scene2Code.GDSoilPlatformCornerObjects4, "SoilSinglePlatform": gdjs.Scene2Code.GDSoilSinglePlatformObjects4, "SoilSlope1": gdjs.Scene2Code.GDSoilSlope1Objects4, "SoilSlope2": gdjs.Scene2Code.GDSoilSlope2Objects4, "SoilTop": gdjs.Scene2Code.GDSoilTopObjects4, "SoilUnderwaterSide": gdjs.Scene2Code.GDSoilUnderwaterSideObjects4, "SoilUnderwaterTop": gdjs.Scene2Code.GDSoilUnderwaterTopObjects4, "WallEmpty": gdjs.Scene2Code.GDWallEmptyObjects4, "WallEmpty2": gdjs.Scene2Code.GDWallEmpty2Objects4, "WallSide": gdjs.Scene2Code.GDWallSideObjects4, "WallSlope": gdjs.Scene2Code.GDWallSlopeObjects4, "WallTop": gdjs.Scene2Code.GDWallTopObjects4, "Water": gdjs.Scene2Code.GDWaterObjects4, "WaterSolid": gdjs.Scene2Code.GDWaterSolidObjects4, "Bridge": gdjs.Scene2Code.GDBridgeObjects4, "FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects4, "CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects4, "FrzBottom": gdjs.Scene2Code.GDFrzBottomObjects4, "FrzCornerBottom": gdjs.Scene2Code.GDFrzCornerBottomObjects4, "FrzEmpty": gdjs.Scene2Code.GDFrzEmptyObjects4, "FrzInnerCorner": gdjs.Scene2Code.GDFrzInnerCornerObjects4, "FrzSide": gdjs.Scene2Code.GDFrzSideObjects4, "FrzSlope1": gdjs.Scene2Code.GDFrzSlope1Objects4, "FrzSlope2": gdjs.Scene2Code.GDFrzSlope2Objects4, "FrzSlopeBottom1": gdjs.Scene2Code.GDFrzSlopeBottom1Objects4, "FrzSlopeBottom2": gdjs.Scene2Code.GDFrzSlopeBottom2Objects4, "FrzTop": gdjs.Scene2Code.GDFrzTopObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects4Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects4});gdjs.Scene2Code.eventsList0xce3998 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd4b380
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects4Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassBottomInnerCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassEmptyObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassEmpty2Objects4ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassSideObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassSinglePlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassSlope1Objects4ObjectsGDgdjs_46Scene2Code_46GDGrassSlope2Objects4ObjectsGDgdjs_46Scene2Code_46GDGrassTopObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassTopCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilCaveTransitionObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilInnerCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilSinglePlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilSlope1Objects4ObjectsGDgdjs_46Scene2Code_46GDSoilSlope2Objects4ObjectsGDgdjs_46Scene2Code_46GDSoilTopObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterSideObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterTopObjects4ObjectsGDgdjs_46Scene2Code_46GDWallEmptyObjects4ObjectsGDgdjs_46Scene2Code_46GDWallEmpty2Objects4ObjectsGDgdjs_46Scene2Code_46GDWallSideObjects4ObjectsGDgdjs_46Scene2Code_46GDWallSlopeObjects4ObjectsGDgdjs_46Scene2Code_46GDWallTopObjects4ObjectsGDgdjs_46Scene2Code_46GDWaterObjects4ObjectsGDgdjs_46Scene2Code_46GDWaterSolidObjects4ObjectsGDgdjs_46Scene2Code_46GDBridgeObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzBottomObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzCornerBottomObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzEmptyObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzInnerCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzSideObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlope1Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlope2Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom1Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom2Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzTopObjects4Objects = Hashtable.newFrom({"GrassBottomInnerCorner": gdjs.Scene2Code.GDGrassBottomInnerCornerObjects4, "GrassEmpty": gdjs.Scene2Code.GDGrassEmptyObjects4, "GrassEmpty2": gdjs.Scene2Code.GDGrassEmpty2Objects4, "GrassPlatform": gdjs.Scene2Code.GDGrassPlatformObjects4, "GrassPlatformCorner": gdjs.Scene2Code.GDGrassPlatformCornerObjects4, "GrassSide": gdjs.Scene2Code.GDGrassSideObjects4, "GrassSinglePlatform": gdjs.Scene2Code.GDGrassSinglePlatformObjects4, "GrassSlope1": gdjs.Scene2Code.GDGrassSlope1Objects4, "GrassSlope2": gdjs.Scene2Code.GDGrassSlope2Objects4, "GrassTop": gdjs.Scene2Code.GDGrassTopObjects4, "GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects4, "SoilCaveTransition": gdjs.Scene2Code.GDSoilCaveTransitionObjects4, "SoilCorner": gdjs.Scene2Code.GDSoilCornerObjects4, "SoilInnerCorner": gdjs.Scene2Code.GDSoilInnerCornerObjects4, "SoilPlatform": gdjs.Scene2Code.GDSoilPlatformObjects4, "SoilPlatformCorner": gdjs.Scene2Code.GDSoilPlatformCornerObjects4, "SoilSinglePlatform": gdjs.Scene2Code.GDSoilSinglePlatformObjects4, "SoilSlope1": gdjs.Scene2Code.GDSoilSlope1Objects4, "SoilSlope2": gdjs.Scene2Code.GDSoilSlope2Objects4, "SoilTop": gdjs.Scene2Code.GDSoilTopObjects4, "SoilUnderwaterSide": gdjs.Scene2Code.GDSoilUnderwaterSideObjects4, "SoilUnderwaterTop": gdjs.Scene2Code.GDSoilUnderwaterTopObjects4, "WallEmpty": gdjs.Scene2Code.GDWallEmptyObjects4, "WallEmpty2": gdjs.Scene2Code.GDWallEmpty2Objects4, "WallSide": gdjs.Scene2Code.GDWallSideObjects4, "WallSlope": gdjs.Scene2Code.GDWallSlopeObjects4, "WallTop": gdjs.Scene2Code.GDWallTopObjects4, "Water": gdjs.Scene2Code.GDWaterObjects4, "WaterSolid": gdjs.Scene2Code.GDWaterSolidObjects4, "Bridge": gdjs.Scene2Code.GDBridgeObjects4, "FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects4, "CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects4, "FrzBottom": gdjs.Scene2Code.GDFrzBottomObjects4, "FrzCornerBottom": gdjs.Scene2Code.GDFrzCornerBottomObjects4, "FrzEmpty": gdjs.Scene2Code.GDFrzEmptyObjects4, "FrzInnerCorner": gdjs.Scene2Code.GDFrzInnerCornerObjects4, "FrzSide": gdjs.Scene2Code.GDFrzSideObjects4, "FrzSlope1": gdjs.Scene2Code.GDFrzSlope1Objects4, "FrzSlope2": gdjs.Scene2Code.GDFrzSlope2Objects4, "FrzSlopeBottom1": gdjs.Scene2Code.GDFrzSlopeBottom1Objects4, "FrzSlopeBottom2": gdjs.Scene2Code.GDFrzSlopeBottom2Objects4, "FrzTop": gdjs.Scene2Code.GDFrzTopObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDGrassBottomInnerCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassEmptyObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassEmpty2Objects4ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassPlatformCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassSideObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassSinglePlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassSlope1Objects4ObjectsGDgdjs_46Scene2Code_46GDGrassSlope2Objects4ObjectsGDgdjs_46Scene2Code_46GDGrassTopObjects4ObjectsGDgdjs_46Scene2Code_46GDGrassTopCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilCaveTransitionObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilInnerCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilPlatformCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilSinglePlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilSlope1Objects4ObjectsGDgdjs_46Scene2Code_46GDSoilSlope2Objects4ObjectsGDgdjs_46Scene2Code_46GDSoilTopObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterSideObjects4ObjectsGDgdjs_46Scene2Code_46GDSoilUnderwaterTopObjects4ObjectsGDgdjs_46Scene2Code_46GDWallEmptyObjects4ObjectsGDgdjs_46Scene2Code_46GDWallEmpty2Objects4ObjectsGDgdjs_46Scene2Code_46GDWallSideObjects4ObjectsGDgdjs_46Scene2Code_46GDWallSlopeObjects4ObjectsGDgdjs_46Scene2Code_46GDWallTopObjects4ObjectsGDgdjs_46Scene2Code_46GDWaterObjects4ObjectsGDgdjs_46Scene2Code_46GDWaterSolidObjects4ObjectsGDgdjs_46Scene2Code_46GDBridgeObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDCaveSinglePlatformObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzBottomObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzCornerBottomObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzEmptyObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzInnerCornerObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzSideObjects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlope1Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlope2Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom1Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzSlopeBottom2Objects4ObjectsGDgdjs_46Scene2Code_46GDFrzTopObjects4Objects = Hashtable.newFrom({"GrassBottomInnerCorner": gdjs.Scene2Code.GDGrassBottomInnerCornerObjects4, "GrassEmpty": gdjs.Scene2Code.GDGrassEmptyObjects4, "GrassEmpty2": gdjs.Scene2Code.GDGrassEmpty2Objects4, "GrassPlatform": gdjs.Scene2Code.GDGrassPlatformObjects4, "GrassPlatformCorner": gdjs.Scene2Code.GDGrassPlatformCornerObjects4, "GrassSide": gdjs.Scene2Code.GDGrassSideObjects4, "GrassSinglePlatform": gdjs.Scene2Code.GDGrassSinglePlatformObjects4, "GrassSlope1": gdjs.Scene2Code.GDGrassSlope1Objects4, "GrassSlope2": gdjs.Scene2Code.GDGrassSlope2Objects4, "GrassTop": gdjs.Scene2Code.GDGrassTopObjects4, "GrassTopCorner": gdjs.Scene2Code.GDGrassTopCornerObjects4, "SoilCaveTransition": gdjs.Scene2Code.GDSoilCaveTransitionObjects4, "SoilCorner": gdjs.Scene2Code.GDSoilCornerObjects4, "SoilInnerCorner": gdjs.Scene2Code.GDSoilInnerCornerObjects4, "SoilPlatform": gdjs.Scene2Code.GDSoilPlatformObjects4, "SoilPlatformCorner": gdjs.Scene2Code.GDSoilPlatformCornerObjects4, "SoilSinglePlatform": gdjs.Scene2Code.GDSoilSinglePlatformObjects4, "SoilSlope1": gdjs.Scene2Code.GDSoilSlope1Objects4, "SoilSlope2": gdjs.Scene2Code.GDSoilSlope2Objects4, "SoilTop": gdjs.Scene2Code.GDSoilTopObjects4, "SoilUnderwaterSide": gdjs.Scene2Code.GDSoilUnderwaterSideObjects4, "SoilUnderwaterTop": gdjs.Scene2Code.GDSoilUnderwaterTopObjects4, "WallEmpty": gdjs.Scene2Code.GDWallEmptyObjects4, "WallEmpty2": gdjs.Scene2Code.GDWallEmpty2Objects4, "WallSide": gdjs.Scene2Code.GDWallSideObjects4, "WallSlope": gdjs.Scene2Code.GDWallSlopeObjects4, "WallTop": gdjs.Scene2Code.GDWallTopObjects4, "Water": gdjs.Scene2Code.GDWaterObjects4, "WaterSolid": gdjs.Scene2Code.GDWaterSolidObjects4, "Bridge": gdjs.Scene2Code.GDBridgeObjects4, "FrzCorner": gdjs.Scene2Code.GDFrzCornerObjects4, "CaveSinglePlatform": gdjs.Scene2Code.GDCaveSinglePlatformObjects4, "FrzBottom": gdjs.Scene2Code.GDFrzBottomObjects4, "FrzCornerBottom": gdjs.Scene2Code.GDFrzCornerBottomObjects4, "FrzEmpty": gdjs.Scene2Code.GDFrzEmptyObjects4, "FrzInnerCorner": gdjs.Scene2Code.GDFrzInnerCornerObjects4, "FrzSide": gdjs.Scene2Code.GDFrzSideObjects4, "FrzSlope1": gdjs.Scene2Code.GDFrzSlope1Objects4, "FrzSlope2": gdjs.Scene2Code.GDFrzSlope2Objects4, "FrzSlopeBottom1": gdjs.Scene2Code.GDFrzSlopeBottom1Objects4, "FrzSlopeBottom2": gdjs.Scene2Code.GDFrzSlopeBottom2Objects4, "FrzTop": gdjs.Scene2Code.GDFrzTopObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects4Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects4});gdjs.Scene2Code.eventsList0xd4c628 = function(runtimeScene) {
 
 {
 
@@ -11136,8 +11136,8 @@ gdjs.Scene2Code.GDEnemy5Objects4.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xce3998
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects4Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects4Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects4});gdjs.Scene2Code.eventsList0xce4188 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd4c628
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects4Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects4Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects4});gdjs.Scene2Code.eventsList0xd4ce18 = function(runtimeScene) {
 
 {
 
@@ -11188,8 +11188,8 @@ if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xce4188
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDProjectileObjects5Objects = Hashtable.newFrom({"Projectile": gdjs.Scene2Code.GDProjectileObjects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDProjectileObjects4Objects = Hashtable.newFrom({"Projectile": gdjs.Scene2Code.GDProjectileObjects4});gdjs.Scene2Code.eventsList0xce5108 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd4ce18
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDProjectileObjects5Objects = Hashtable.newFrom({"Projectile": gdjs.Scene2Code.GDProjectileObjects5});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDProjectileObjects4Objects = Hashtable.newFrom({"Projectile": gdjs.Scene2Code.GDProjectileObjects4});gdjs.Scene2Code.eventsList0xd4dd98 = function(runtimeScene) {
 
 {
 
@@ -11209,7 +11209,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy5Objects5.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy5Objects5.length = k;}if ( gdjs.Scene2Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition1IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13521956);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13951156);
 }
 }}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
@@ -11254,7 +11254,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy5Objects4.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy5Objects4.length = k;}if ( gdjs.Scene2Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition1IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13523404);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13952604);
 }
 }}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
@@ -11279,8 +11279,8 @@ gdjs.Scene2Code.GDProjectileObjects4.length = 0;
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xce5108
-gdjs.Scene2Code.eventsList0xce5f40 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd4dd98
+gdjs.Scene2Code.eventsList0xd4ebd0 = function(runtimeScene) {
 
 {
 
@@ -11351,8 +11351,8 @@ if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xce5f40
-gdjs.Scene2Code.eventsList0xce23e8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd4ebd0
+gdjs.Scene2Code.eventsList0xd4b078 = function(runtimeScene) {
 
 {
 
@@ -11396,7 +11396,7 @@ if (gdjs.Scene2Code.condition2IsTrue_0.val) {
 }
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xce26f0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd4b380(runtimeScene);} //End of subevents
 }
 
 }
@@ -11586,7 +11586,7 @@ gdjs.Scene2Code.GDEnemy5Objects4.length = k;}}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xce3998(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd4c628(runtimeScene);} //End of subevents
 }
 
 }
@@ -11635,7 +11635,7 @@ if (gdjs.Scene2Code.condition3IsTrue_0.val) {
 }
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xce4188(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd4ce18(runtimeScene);} //End of subevents
 }
 
 }
@@ -11722,14 +11722,14 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy5Objects4.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy5Objects4.length = k;}if ( gdjs.Scene2Code.condition1IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition2IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13521556);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13950756);
 }
 }}
 }
 if (gdjs.Scene2Code.condition2IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xce5108(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd4dd98(runtimeScene);} //End of subevents
 }
 
 }
@@ -11769,14 +11769,14 @@ gdjs.Scene2Code.GDEnemy5Objects3.length = k;}}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xce5f40(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd4ebd0(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xce23e8
-gdjs.Scene2Code.eventsList0xce6be0 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd4b078
+gdjs.Scene2Code.eventsList0xd4f870 = function(runtimeScene) {
 
 {
 
@@ -11850,8 +11850,8 @@ gdjs.Scene2Code.GDEnemy5Objects3.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xce6be0
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects3Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDProjectileObjects3Objects = Hashtable.newFrom({"Projectile": gdjs.Scene2Code.GDProjectileObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects3Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDArrowObjects2Objects = Hashtable.newFrom({"Arrow": gdjs.Scene2Code.GDArrowObjects2});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects2Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects2});gdjs.Scene2Code.eventsList0xcdfb28 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd4f870
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects3Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDProjectileObjects3Objects = Hashtable.newFrom({"Projectile": gdjs.Scene2Code.GDProjectileObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects3Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects3});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDArrowObjects2Objects = Hashtable.newFrom({"Arrow": gdjs.Scene2Code.GDArrowObjects2});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects2Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects2});gdjs.Scene2Code.eventsList0xd487b8 = function(runtimeScene) {
 
 {
 
@@ -11989,7 +11989,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy5Objects3.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy5Objects3.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xce08e8(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd49578(runtimeScene);} //End of subevents
 }
 
 }
@@ -12012,7 +12012,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy5Objects3.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy5Objects3.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xce1570(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd4a200(runtimeScene);} //End of subevents
 }
 
 }
@@ -12104,7 +12104,7 @@ gdjs.Scene2Code.GDEnemy5Objects3.length = k;}}
 if (gdjs.Scene2Code.condition3IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xce23e8(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd4b078(runtimeScene);} //End of subevents
 }
 
 }
@@ -12186,7 +12186,7 @@ gdjs.Scene2Code.GDEnemy5Objects3.length = k;}}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xce6be0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd4f870(runtimeScene);} //End of subevents
 }
 
 }
@@ -12505,7 +12505,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects3.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects3.length = k;}if ( gdjs.Scene2Code.condition2IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition3IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13539340);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13968540);
 }
 }}
 }
@@ -12573,7 +12573,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects3.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects3.length = k;}if ( gdjs.Scene2Code.condition2IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition3IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13541260);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13970460);
 }
 }}
 }
@@ -12696,7 +12696,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects3.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects3.length = k;}if ( gdjs.Scene2Code.condition2IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition3IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13543844);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13973044);
 }
 }}
 }
@@ -12816,7 +12816,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDPlayerObjects3.length;i<l;++i) {
 gdjs.Scene2Code.GDPlayerObjects3.length = k;}if ( gdjs.Scene2Code.condition2IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition3IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13546252);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13975452);
 }
 }}
 }
@@ -12864,7 +12864,7 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionT
 }if ( gdjs.Scene2Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition1IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13548076);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13977276);
 }
 }}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
@@ -12895,8 +12895,8 @@ gdjs.Scene2Code.GDPlayerObjects2.createFrom(runtimeScene.getObjects("Player"));
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcdfb28
-gdjs.Scene2Code.eventsList0xcec610 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd487b8
+gdjs.Scene2Code.eventsList0xd552a0 = function(runtimeScene) {
 
 {
 
@@ -12970,8 +12970,8 @@ gdjs.Scene2Code.GDEnemy5Objects2.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcec610
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects2Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects2});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDOutOfBoundsObjects2Objects = Hashtable.newFrom({"OutOfBounds": gdjs.Scene2Code.GDOutOfBoundsObjects2});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects1});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects1Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects1});gdjs.Scene2Code.eventsList0xceda80 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd552a0
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects2Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects2});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDOutOfBoundsObjects2Objects = Hashtable.newFrom({"OutOfBounds": gdjs.Scene2Code.GDOutOfBoundsObjects2});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.Scene2Code.GDPlayerObjects1});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects1Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects1});gdjs.Scene2Code.eventsList0xd56710 = function(runtimeScene) {
 
 {
 
@@ -12983,7 +12983,7 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.Scene2Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition1IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13557028);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13986228);
 }
 }}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
@@ -13027,7 +13027,7 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.Scene2Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition1IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13558572);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13987772);
 }
 }}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
@@ -13068,8 +13068,8 @@ gdjs.Scene2Code.GDVersionObjects1.createFrom(runtimeScene.getObjects("Version"))
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xceda80
-gdjs.Scene2Code.eventsList0xced568 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd56710
+gdjs.Scene2Code.eventsList0xd561f8 = function(runtimeScene) {
 
 {
 
@@ -13092,14 +13092,14 @@ gdjs.Scene2Code.GDEnemy5Objects1.length = k;}}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xceda80(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd56710(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xced568
-gdjs.Scene2Code.eventsList0xcdd370 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd561f8
+gdjs.Scene2Code.eventsList0xd46000 = function(runtimeScene) {
 
 {
 
@@ -13118,7 +13118,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy5Objects2.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy5Objects2.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcdd460(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd460f0(runtimeScene);} //End of subevents
 }
 
 }
@@ -13147,7 +13147,7 @@ gdjs.Scene2Code.GDPlayerObjects2.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xcde560(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd471f0(runtimeScene);} //End of subevents
 }
 
 }
@@ -13169,7 +13169,7 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcdf340(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd47fd0(runtimeScene);} //End of subevents
 }
 
 }
@@ -13192,7 +13192,7 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy5Objects2.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy5Objects2.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcdfb28(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd487b8(runtimeScene);} //End of subevents
 }
 
 }
@@ -13290,7 +13290,7 @@ gdjs.Scene2Code.GDEnemy5Objects2.length = k;}if (gdjs.Scene2Code.condition0IsTru
 }
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xcec610(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd552a0(runtimeScene);} //End of subevents
 }
 
 }
@@ -13373,14 +13373,14 @@ if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 }
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xced568(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd561f8(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcdd370
-gdjs.Scene2Code.eventsList0xcd9d20 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd46000
+gdjs.Scene2Code.eventsList0xd429b0 = function(runtimeScene) {
 
 {
 
@@ -13395,7 +13395,7 @@ gdjs.Scene2Code.eventsList0xcd9d20 = function(runtimeScene) {
 {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcd9f28(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd42bb8(runtimeScene);} //End of subevents
 }
 
 }
@@ -13417,14 +13417,14 @@ for(var i = 0, k = 0, l = gdjs.Scene2Code.GDEnemy5Objects1.length;i<l;++i) {
 gdjs.Scene2Code.GDEnemy5Objects1.length = k;}if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcdd370(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd46000(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcd9d20
-gdjs.Scene2Code.eventsList0xcd0540 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd429b0
+gdjs.Scene2Code.eventsList0xd391d0 = function(runtimeScene) {
 
 {
 
@@ -13435,52 +13435,52 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerPaused(
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcd9d20(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd429b0(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcd0540
-gdjs.Scene2Code.eventsList0xca6e48 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd391d0
+gdjs.Scene2Code.eventsList0xd0faa0 = function(runtimeScene) {
 
 {
 
 
-gdjs.Scene2Code.eventsList0xca6f00(runtimeScene);
-}
-
-
-{
-
-
-gdjs.Scene2Code.eventsList0xcae4e8(runtimeScene);
+gdjs.Scene2Code.eventsList0xd0fb58(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Scene2Code.eventsList0xcbad68(runtimeScene);
+gdjs.Scene2Code.eventsList0xd17140(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Scene2Code.eventsList0xcbf580(runtimeScene);
+gdjs.Scene2Code.eventsList0xd239f8(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Scene2Code.eventsList0xcd0540(runtimeScene);
+gdjs.Scene2Code.eventsList0xd28210(runtimeScene);
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xca6e48
-gdjs.Scene2Code.eventsList0xceeca0 = function(runtimeScene) {
+{
+
+
+gdjs.Scene2Code.eventsList0xd391d0(runtimeScene);
+}
+
+
+}; //End of gdjs.Scene2Code.eventsList0xd0faa0
+gdjs.Scene2Code.eventsList0xd57930 = function(runtimeScene) {
 
 {
 
@@ -13566,8 +13566,8 @@ if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xceeca0
-gdjs.Scene2Code.eventsList0xceebc8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd57930
+gdjs.Scene2Code.eventsList0xd57858 = function(runtimeScene) {
 
 {
 
@@ -13578,14 +13578,14 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsed
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xceeca0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd57930(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xceebc8
-gdjs.Scene2Code.eventsList0xcef780 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd57858
+gdjs.Scene2Code.eventsList0xd58410 = function(runtimeScene) {
 
 {
 
@@ -13601,8 +13601,8 @@ gdjs.Scene2Code.GDTimerObjects2.createFrom(runtimeScene.getObjects("Timer"));
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcef780
-gdjs.Scene2Code.eventsList0xceffb0 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd58410
+gdjs.Scene2Code.eventsList0xd58c40 = function(runtimeScene) {
 
 {
 
@@ -13706,8 +13706,8 @@ gdjs.Scene2Code.GDDisplayMessageObjects2.length = k;}if (gdjs.Scene2Code.conditi
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xceffb0
-gdjs.Scene2Code.eventsList0xcefaf8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd58c40
+gdjs.Scene2Code.eventsList0xd58788 = function(runtimeScene) {
 
 {
 
@@ -13761,14 +13761,14 @@ gdjs.Scene2Code.GDDisplayMessageObjects2.length = k;}if (gdjs.Scene2Code.conditi
 }
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xceffb0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd58c40(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcefaf8
-gdjs.Scene2Code.eventsList0xcf12d8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd58788
+gdjs.Scene2Code.eventsList0xd59f68 = function(runtimeScene) {
 
 {
 
@@ -13776,7 +13776,7 @@ gdjs.Scene2Code.eventsList0xcf12d8 = function(runtimeScene) {
 gdjs.Scene2Code.condition0IsTrue_0.val = false;
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition0IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13571532);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(14000732);
 }
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(7).setNumber(0);
@@ -13845,8 +13845,8 @@ if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcf12d8
-gdjs.Scene2Code.eventsList0xcf0ea8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd59f68
+gdjs.Scene2Code.eventsList0xd59b38 = function(runtimeScene) {
 
 {
 
@@ -13900,7 +13900,7 @@ gdjs.Scene2Code.GDDisplayTipObjects3.length = k;}if (gdjs.Scene2Code.condition0I
 }
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xcf12d8(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd59f68(runtimeScene);} //End of subevents
 }
 
 }
@@ -13938,8 +13938,8 @@ gdjs.Scene2Code.GDDisplayTipObjects2.length = k;}if (gdjs.Scene2Code.condition0I
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcf0ea8
-gdjs.Scene2Code.eventsList0xcf2270 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd59b38
+gdjs.Scene2Code.eventsList0xd5af00 = function(runtimeScene) {
 
 {
 
@@ -13996,46 +13996,46 @@ gdjs.Scene2Code.GDDisplayCompleteObjects1.length = k;}if (gdjs.Scene2Code.condit
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcf2270
-gdjs.Scene2Code.eventsList0xceeb10 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd5af00
+gdjs.Scene2Code.eventsList0xd577a0 = function(runtimeScene) {
 
 {
 
 
-gdjs.Scene2Code.eventsList0xceebc8(runtimeScene);
+gdjs.Scene2Code.eventsList0xd57858(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Scene2Code.eventsList0xcef780(runtimeScene);
+gdjs.Scene2Code.eventsList0xd58410(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Scene2Code.eventsList0xcefaf8(runtimeScene);
+gdjs.Scene2Code.eventsList0xd58788(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Scene2Code.eventsList0xcf0ea8(runtimeScene);
+gdjs.Scene2Code.eventsList0xd59b38(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Scene2Code.eventsList0xcf2270(runtimeScene);
+gdjs.Scene2Code.eventsList0xd5af00(runtimeScene);
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xceeb10
-gdjs.Scene2Code.eventsList0xcf3498 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd577a0
+gdjs.Scene2Code.eventsList0xd5c128 = function(runtimeScene) {
 
 {
 
@@ -14063,8 +14063,8 @@ gdjs.Scene2Code.GDPlayerObjects1.createFrom(runtimeScene.getObjects("Player"));
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcf3498
-gdjs.Scene2Code.eventsList0xcf2ac8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd5c128
+gdjs.Scene2Code.eventsList0xd5b758 = function(runtimeScene) {
 
 {
 
@@ -14072,7 +14072,7 @@ gdjs.Scene2Code.eventsList0xcf2ac8 = function(runtimeScene) {
 gdjs.Scene2Code.condition0IsTrue_0.val = false;
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition0IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13577212);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(14006412);
 }
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 gdjs.Scene2Code.GDPlayerObjects2.createFrom(runtimeScene.getObjects("Player"));
@@ -14119,14 +14119,14 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.camera.getCameraY(runtime
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcf3498(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd5c128(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcf2ac8
-gdjs.Scene2Code.eventsList0xcf3e10 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd5b758
+gdjs.Scene2Code.eventsList0xd5caa0 = function(runtimeScene) {
 
 {
 
@@ -14242,7 +14242,7 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.Scene2Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition1IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13586300);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(14015500);
 }
 }}
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
@@ -14252,8 +14252,8 @@ if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcf3e10
-gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects4Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects4Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects4Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects4});gdjs.Scene2Code.eventsList0xcf7a28 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd5caa0
+gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects4Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy5Objects4Objects = Hashtable.newFrom({"Enemy5": gdjs.Scene2Code.GDEnemy5Objects4});gdjs.Scene2Code.mapOfGDgdjs_46Scene2Code_46GDEnemy4Objects4Objects = Hashtable.newFrom({"Enemy4": gdjs.Scene2Code.GDEnemy4Objects4});gdjs.Scene2Code.eventsList0xd606b8 = function(runtimeScene) {
 
 {
 
@@ -14274,8 +14274,8 @@ gdjs.Scene2Code.GDEnemy5Objects4.createFrom(gdjs.Scene2Code.GDEnemy5Objects3);
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcf7a28
-gdjs.Scene2Code.eventsList0xcf6668 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd606b8
+gdjs.Scene2Code.eventsList0xd5f2f8 = function(runtimeScene) {
 
 {
 
@@ -14428,7 +14428,7 @@ gdjs.Scene2Code.GDPlayerObjects4.createFrom(runtimeScene.getObjects("Player"));
 }{runtimeScene.getGame().getVariables().getFromIndex(30).setNumber(0);
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xcf7a28(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd606b8(runtimeScene);} //End of subevents
 }
 
 }
@@ -14489,8 +14489,8 @@ gdjs.Scene2Code.GDPlayerObjects3.createFrom(runtimeScene.getObjects("Player"));
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcf6668
-gdjs.Scene2Code.eventsList0xcf6260 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd5f2f8
+gdjs.Scene2Code.eventsList0xd5eef0 = function(runtimeScene) {
 
 {
 
@@ -14585,14 +14585,14 @@ gdjs.Scene2Code.GDEnemy5Objects3.createFrom(gdjs.Scene2Code.GDEnemy5Objects3_1fi
 if (gdjs.Scene2Code.condition1IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcf6668(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd5f2f8(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcf6260
-gdjs.Scene2Code.eventsList0xcf5978 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd5eef0
+gdjs.Scene2Code.eventsList0xd5e608 = function(runtimeScene) {
 
 {
 
@@ -14648,14 +14648,14 @@ if( gdjs.Scene2Code.condition2IsTrue_1.val ) {
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcf6260(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd5eef0(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcf5978
-gdjs.Scene2Code.eventsList0xcf51b8 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd5e608
+gdjs.Scene2Code.eventsList0xd5de48 = function(runtimeScene) {
 
 {
 
@@ -14729,7 +14729,7 @@ gdjs.Scene2Code.GDHeartObjects3.createFrom(runtimeScene.getObjects("Heart"));
 }
 }
 { //Subevents
-gdjs.Scene2Code.eventsList0xcf5978(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd5e608(runtimeScene);} //End of subevents
 }
 
 }
@@ -14749,7 +14749,7 @@ gdjs.Scene2Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.Scene2Code.condition1IsTrue_0.val ) {
 {
 {gdjs.Scene2Code.conditionTrue_1 = gdjs.Scene2Code.condition2IsTrue_0;
-gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13602428);
+gdjs.Scene2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(14031628);
 }
 }}
 }
@@ -14801,8 +14801,8 @@ gdjs.Scene2Code.GDTimerObjects2.createFrom(runtimeScene.getObjects("Timer"));
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcf51b8
-gdjs.Scene2Code.eventsList0xcf96f0 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd5de48
+gdjs.Scene2Code.eventsList0xd62380 = function(runtimeScene) {
 
 {
 
@@ -14837,8 +14837,8 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcf96f0
-gdjs.Scene2Code.eventsList0xcf9618 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd62380
+gdjs.Scene2Code.eventsList0xd622a8 = function(runtimeScene) {
 
 {
 
@@ -14849,78 +14849,78 @@ gdjs.Scene2Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if (gdjs.Scene2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Scene2Code.eventsList0xcf96f0(runtimeScene);} //End of subevents
+gdjs.Scene2Code.eventsList0xd62380(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcf9618
-gdjs.Scene2Code.eventsList0xcf3d58 = function(runtimeScene) {
+}; //End of gdjs.Scene2Code.eventsList0xd622a8
+gdjs.Scene2Code.eventsList0xd5c9e8 = function(runtimeScene) {
 
 {
 
 
-gdjs.Scene2Code.eventsList0xcf3e10(runtimeScene);
-}
-
-
-{
-
-
-gdjs.Scene2Code.eventsList0xcf51b8(runtimeScene);
+gdjs.Scene2Code.eventsList0xd5caa0(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Scene2Code.eventsList0xcf9618(runtimeScene);
+gdjs.Scene2Code.eventsList0xd5de48(runtimeScene);
 }
 
 
-}; //End of gdjs.Scene2Code.eventsList0xcf3d58
+{
+
+
+gdjs.Scene2Code.eventsList0xd622a8(runtimeScene);
+}
+
+
+}; //End of gdjs.Scene2Code.eventsList0xd5c9e8
 gdjs.Scene2Code.eventsList0xb2a48 = function(runtimeScene) {
 
 {
 
 
-gdjs.Scene2Code.eventsList0xca3770(runtimeScene);
+gdjs.Scene2Code.eventsList0xd0c3c8(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Scene2Code.eventsList0xca5b18(runtimeScene);
+gdjs.Scene2Code.eventsList0xd0e770(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Scene2Code.eventsList0xca6e48(runtimeScene);
+gdjs.Scene2Code.eventsList0xd0faa0(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Scene2Code.eventsList0xceeb10(runtimeScene);
+gdjs.Scene2Code.eventsList0xd577a0(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Scene2Code.eventsList0xcf2ac8(runtimeScene);
+gdjs.Scene2Code.eventsList0xd5b758(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Scene2Code.eventsList0xcf3d58(runtimeScene);
+gdjs.Scene2Code.eventsList0xd5c9e8(runtimeScene);
 }
 
 
